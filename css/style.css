@@ -1,79 +1,19 @@
-.form-group select {
-    margin: 20px auto;
-}
-#find-cards {
+.results-container {
     margin-top: 30px;
 }
-/* General styling for the form group */
-.site-header {
-    background-color: #fff;
+
+.card {
+    border: 1px solid #ddd;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 20px;
-    width: 300px !important;
-    text-align: center;
-  } */
-  
-  /* Heading style */
-  .site-header h1 {
-    font-size: 1.5rem;
-    color: #333;
     margin-bottom: 20px;
-  }
-  
-  /* Form group styling */
-  .form-group {
-    margin-bottom: 15px;
-    text-align: left;
-  }
-  
-  /* Label styling */
-  .form-group label {
-    display: block;
-    font-size: 14px;
-    color: #555;
-    margin-bottom: 5px;
-  }
-  
-  /* Select styling */
-  .form-group select {
-    width: 100%;
-    padding: 10px;
-    font-size: 14px;
-    color: #333;
-    background-color: #f9f9f9;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    appearance: none;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    outline: none;
-    cursor: pointer;
-    transition: border-color 0.3s, box-shadow 0.3s;
-  }
-  
-  /* Select focus and hover effects */
-  .form-group select:hover,
-  .form-group select:focus {
-    border-color: #007BFF;
-    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
-  }
-  
-  /* Button styling */
-  #find-cards {
-    margin-top: 10px;
-    padding: 10px 20px;
-    font-size: 16px;
-    color: #fff;
-    background-color: #007BFF;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-  }
-  
-  /* Button hover effect */
-  #find-cards:hover {
-    background-color: #0056b3;
-  }
-  
+    background-color: white;
+}
+
+.card h3 {
+    margin: 0 0 10px;
+}
+
+.card p {
+    margin: 5px 0;
+}
