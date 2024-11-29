@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
             .then(response => response.json())
             .then(data => {
                 // console.log(data);
-                const cards = data.countries.filter(card => card.country == residentCode 
+                const cards = data[0].countries.filter(card => card.country == residentCode 
 
                 );
                 displayCards(cards);
