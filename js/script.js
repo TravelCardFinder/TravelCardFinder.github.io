@@ -44,19 +44,19 @@ document.addEventListener('DOMContentLoaded', () => {
     findCardsBtn.addEventListener('click', () => {
         const residentCode = residentSelect.value;
         const destinationCode = destinationSelect.value;
+        const loader = document.getElementById("loader");
 
         if (!residentCode || !destinationCode) {
             alert('Please select both resident and destination countries.');
             return;
         }
-
+        loader.classList.remove("hidden");
         fetch(apiEndpoint)
             .then(response => response.json())
             .then(data => {
                 // console.log(data);
-                const cards = data[0].countries.filter(card => card.country == residentCode 
-
-                );
+                const cards = data[0].countries.filter(card => card.country == residentCode);
+                loader.classList.add("hidden");
                 displayCards(cards);
             })
             .catch(error => {
