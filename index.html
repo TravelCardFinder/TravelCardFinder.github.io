@@ -8,20 +8,23 @@ pagination:
 <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
   <div class="scrim {% if site.cover %}has-cover{% endif %}">
     <header class="site-header">
-        <h1>Find Best card For Your Overseas Travel</h1>
+        <div class="card-form-container">
+          <h1>Find Best card For Your Overseas Travel</h1>
+          <div class="form-group">
+            <label for="resident-country">Resident Country:</label>
+            <select id="resident-country" ></select>
+        </div>
         <div class="form-group">
-          <label for="resident-country">Resident Country:</label>
-          <select id="resident-country" ></select>
-      </div>
-      <div class="form-group">
-          <label for="destination-country">Destination Country:</label>
-          <select id="destination-country"></select>
-      </div>
-      <button id="find-cards">Find Cards</button>
+            <label for="destination-country">Destination Country:</label>
+            <select id="destination-country"></select>
+        </div>
+        <button id="find-cards">Find Cards</button>
+        </div>
     </header>
+  <div id="card-results" class="results-container"></div>
+
   </div>
 </div>
-  <div id="card-results" class="results-container"></div>
 <div class="wrapper">
 <ul class="post-list">
   {% for post in paginator.posts %}
