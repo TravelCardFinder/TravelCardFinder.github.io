@@ -8,7 +8,6 @@ pagination:
 <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
   <div class="scrim {% if site.cover %}has-cover{% endif %}">
     <header class="site-header">
-      <div class="container">
         <h1>Travel Card Finder</h1>
         <div class="form-group">
           <label for="resident-country">Resident Country:</label>
@@ -19,14 +18,10 @@ pagination:
           <select id="destination-country"></select>
       </div>
       <button id="find-cards">Find Cards</button>
-      </div>
     </header>
   </div>
 </div>
-<div class="container">
   <div id="card-results" class="results-container"></div>
-</div>
-
 <div class="wrapper">
 <ul class="post-list">
   {% for post in paginator.posts %}
