@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const destinationSelect = document.getElementById('destination-country');
     const findCardsBtn = document.getElementById('find-cards');
     const resultsContainer = document.getElementById('card-results');
-
+    const loader = document.getElementById("loader-container");
     const apiEndpoint = "https://dev-22v50f89c7s3guk.api.raw-labs.com/TravelCardFinder"; 
     function populateSelectOptions(selectElement, countries, selectType) {
         countries.forEach(country => {
@@ -44,8 +44,6 @@ document.addEventListener('DOMContentLoaded', () => {
     findCardsBtn.addEventListener('click', () => {
         const residentCode = residentSelect.value;
         const destinationCode = destinationSelect.value;
-        const loader = document.getElementById("loader");
-
         if (!residentCode || !destinationCode) {
             alert('Please select both resident and destination countries.');
             return;
@@ -54,8 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
         fetch(apiEndpoint)
             .then(response => response.json())
             .then(data => {
-                // console.log(data);
-                const cards = data[0].countries.filter(card => card.country == residentCode);
+                const cards = data[0].countries.filter(card => card.country == residentCode );
                 loader.classList.add("hidden");
                 displayCards(cards);
             })
@@ -74,6 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
             resultsContainer.innerHTML = '<p>No travel cards found for the selected criteria.</p>';
             return;
         }
+        
         filteredTravelCards.forEach(card => {
             const cardElement = document.createElement('div');
             cardElement.classList.add('card');
