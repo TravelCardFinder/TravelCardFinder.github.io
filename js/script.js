@@ -23,18 +23,23 @@ document.addEventListener('DOMContentLoaded', () => {
     const resultsContainer = document.getElementById('card-results');
 
     const apiEndpoint = "https://dev-22v50f89c7s3guk.api.raw-labs.com/TravelCardFinder"; 
-
-    function populateSelectOptions(selectElement, countries) {
+    function populateSelectOptions(selectElement, countries, selectType) {
         countries.forEach(country => {
             const option = document.createElement('option');
             option.value = country.CountryCode;
             option.textContent = `${country.name} (${country.CountryCode})`;
             selectElement.appendChild(option);
         });
+        if (selectType == 'Resident') {
+            selectElement.insertAdjacentHTML('afterbegin','<option Selected disabled>Select Resident Country </option>')
+        } else  if (selectType == 'Destination') {
+            selectElement.insertAdjacentHTML('afterbegin','<option Selected disabled>Select Destination Country </option>')
+
+        }
     }
 
-    populateSelectOptions(residentSelect, countries);
-    populateSelectOptions(destinationSelect, countries);
+    populateSelectOptions(residentSelect, countries, 'Resident');
+    populateSelectOptions(destinationSelect, countries, 'Destination');
 
     findCardsBtn.addEventListener('click', () => {
         const residentCode = residentSelect.value;
