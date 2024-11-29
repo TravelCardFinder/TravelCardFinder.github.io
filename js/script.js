@@ -23,6 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const resultsContainer = document.getElementById('card-results');
     const apiEndpoint = "https://dev-22v50f89c7s3guk.api.raw-labs.com/TravelCardFinder"; 
     function populateSelectOptions(selectElement, countries, selectType) {
+        resultsContainer.innerHTML= '';
         countries.forEach(country => {
             const option = document.createElement('option');
             option.value = country.CountryCode;
