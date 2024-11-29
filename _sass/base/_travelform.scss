@@ -67,9 +67,11 @@
     margin-top: 30px;
     overflow: scroll;
     height: 395px;
-    width: 70%;
 }
-
+.results-container-finder {
+    width: 70%;
+    position: relative;
+}
 .card {
     border: 1px solid #ddd;
     border-radius: 8px;
@@ -113,6 +115,10 @@
     width: 40px;
     height: 40px;
     animation: spin 1s linear infinite;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
   }
   
   /* Keyframes for spin animation */
