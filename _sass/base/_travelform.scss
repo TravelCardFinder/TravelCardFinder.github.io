@@ -147,3 +147,16 @@
     font-size: 12px;
     color: red;
   }
+  .travel-card-link {
+    padding: 5px 15px;
+    color: #666;
+    background: aquamarine;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  .Each-card-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: self-start;
+  }

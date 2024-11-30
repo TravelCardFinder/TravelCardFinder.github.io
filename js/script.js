@@ -105,11 +105,14 @@ document.addEventListener('DOMContentLoaded', () => {
             const cardElement = document.createElement('div');
             cardElement.classList.add('card');
             cardElement.innerHTML = `
+                <div class="Each-card-title"> 
                 <h3>${card.cardName}</h3>
+                <p><a href="${card.applyLinkURL}" target="_blank" class="travel-card-link">Apply Here</a></p>
+                </div>
                 <p><strong>Type:</strong> ${card.cardType}</p>
                 <p><strong>Features:</strong> ${card.feeFeatures}</p>
                 <p><strong>Supported Currencies:</strong> ${card.supportedCurrencies?.join(', ')}</p>
-                <p><a href="${card.applyLinkURL}" target="_blank">Apply Here</a></p>
+                
             `;
             resultsContainer.appendChild(cardElement);
         });
