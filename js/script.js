@@ -45,10 +45,38 @@ document.addEventListener('DOMContentLoaded', () => {
         const residentCode = residentSelect.value;
         const destinationCode = destinationSelect.value;
         const loader = document.getElementById("loader");
-        if (!residentCode || !destinationCode) {
-            alert('Please select both resident and destination countries.');
-            return;
-        }
+          // Remove previous error messages
+  const existingErrors = document.querySelectorAll(".error-message");
+  existingErrors.forEach((error) => error.remove());
+
+  let valid = true;
+
+  // Validate Resident Country
+  if (!residentCountry) {
+    const residentField = document.getElementById("resident-country");
+    const error = document.createElement("div");
+    error.className = "error-message";
+    error.style.color = "red";
+    error.style.fontSize = "12px";
+    error.textContent = "Please select a Resident Country.";
+    residentField.parentElement.appendChild(error);
+    valid = false;
+  }
+
+  // Validate Destination Country
+  if (!destinationCountry) {
+    const destinationField = document.getElementById("destination-country");
+    const error = document.createElement("div");
+    error.className = "error-message";
+    error.style.color = "red";
+    error.style.fontSize = "12px";
+    error.textContent = "Please select a Destination Country.";
+    destinationField.parentElement.appendChild(error);
+    valid = false;
+  }
+
+  // Stop if validation fails
+  if (!valid) return;
         loader.classList.remove("hidden");
         fetch(apiEndpoint)
             .then(response => response.json())
