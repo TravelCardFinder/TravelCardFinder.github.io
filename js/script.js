@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let valid = true;
 
   // Validate Resident Country
-  if (!residentCountry) {
+  if (!residentSelect.options[residentSelect.selectedIndex].hasAttribute("value")) {
     const residentField = document.getElementById("resident-country");
     const error = document.createElement("div");
     error.className = "error-message";
@@ -64,7 +64,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // Validate Destination Country
-  if (!destinationCountry) {
+  if (!destinationSelect.options[destinationSelect.selectedIndex].hasAttribute("value")) {
     const destinationField = document.getElementById("destination-country");
     const error = document.createElement("div");
     error.className = "error-message";
