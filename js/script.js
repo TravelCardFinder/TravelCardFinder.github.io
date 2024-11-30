@@ -109,12 +109,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 <h3>${card.cardName}</h3>
                 <p><a href="${card.applyLinkURL}" target="_blank" class="travel-card-link">Apply Here</a></p>
                 </div>
-                <p><strong>Type:</strong> ${card.cardType}</p>
+                
                 <p><strong>Features:</strong> ${card.feeFeatures}</p>
                 <p><strong>Supported Currencies:</strong> ${card.supportedCurrencies?.join(', ')}</p>
                 
             `;
             resultsContainer.appendChild(cardElement);
         });
+        // <p><strong>Type:</strong> ${card.cardType}</p>
     }
 });
