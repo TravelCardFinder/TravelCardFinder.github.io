@@ -5,6 +5,10 @@
     font-size: 1.5rem;
     color: #333;
     margin-bottom: 20px;
+    @media (max-width: 600px) {
+        font-size: 1.2rem;
+        
+    }
   }
   
   /* Form group styling */
@@ -101,6 +105,10 @@
     padding: 20px;
     width: 330px;
     text-align: center;
+    @media (max-width: 600px) {
+        width: auto;
+        
+    }
   }
   .card-form-container {
     width: 80%;
@@ -108,6 +116,12 @@
     display: flex;
     justify-content: space-between;
     align-items: self-end !important;
+    @media (max-width: 600px) {
+        width: auto;
+        margin-top: -100px;  
+        display: block;
+
+    }
   }
 
    /* Loader styles */
