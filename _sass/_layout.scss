@@ -96,6 +96,11 @@ pre code.hljs {
 		.subtitle, .info {
 			font-size: modular-scale(1);
 		}
+		@media screen and (max-width: 600px) {
+			background-position: bottom;
+			height: 450px;
+			background-size: contain; 
+		}
 	}
 	.scrim {
 		padding: 3em 1em;
