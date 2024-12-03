@@ -51,7 +51,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-# disqus_shortname: bencentra
+# disqus_shortname: TravelCardFinder
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
@@ -75,36 +75,36 @@ descriptions:
 # social:
 #   - name: Twitter                         # Name of the service
 #     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
-#     username: "@TheBenCentra"             # (User) Name to display in the footer link
-#     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
+#     username: "@TravelCardFinder"             # (User) Name to display in the footer link
+#     url: https://twitter.com/TravelCardFinder # URL of your profile (leave blank to not display in footer)
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: TravelCardFinder
+    url: https://twitter.com/TravelCardFinder
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username: TravelCardFinder
     url: ""
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: TravelCardFinder
+    url: https://github.com/TravelCardFinder
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: TravelCardFinder
+    url: 
     desc: Connect with me on LinkedIn
     share: true
 
@@ -203,6 +203,6 @@ protocols:
 
     twitter_image: "/assets/logo.png"
 
-    os_repo: "https://github.com/bencentra/centrarium.com"
-    os_rcs_type: "git"
-    os_src: "git@github.com:bencentra/centrarium.com.git"
+    # os_repo: "https://github.com/bencentra/centrarium.com"
+    # os_rcs_type: "git"
+    # os_src: "git@github.com:bencentra/centrarium.com.git"
