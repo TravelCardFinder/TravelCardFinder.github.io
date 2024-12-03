@@ -128,6 +128,9 @@ pre code.hljs {
 	right: 0;
 	background: $white;
 	z-index: 1;
+	@media screen and (max-width: 600px) {
+		box-shadow: none;
+	  }
 	/*
 	*	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")
 	*/
@@ -158,6 +161,9 @@ pre code.hljs {
       max-height: 4em;
       margin-top: 0.75em;
       padding-right: 1em;
+	  @media screen and (max-width: 600px) {
+		max-height: 3em;
+	  }
     }
     span {
     	font-size: 1.25em;
@@ -170,6 +176,9 @@ pre code.hljs {
       float: right;
       line-height: 1.5em;
     }
+	@media screen and (max-width: 600px) {
+		padding: 1.5em 0;
+	  }
   }
   ul.navigation-menu {
     clear: both;
