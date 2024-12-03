@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Prepaid Travel Card by Wise"
-date:   2015-04-18T14:25:52-05:00
+date:   2024-12-10T14:25:52-05:00
 author: TravelCardFinder
 categories: prepaid_travel_cards
 ---
