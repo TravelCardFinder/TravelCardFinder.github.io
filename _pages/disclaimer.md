@@ -2,7 +2,7 @@
 layout: page
 title: Disclaimer
 permalink: /disclaimer/
-main_nav: true
+
 ---
 
 Welcome to **[TravelCardFinder](https://travelcardfinder.github.io)**! This Disclaimer outlines the limitations of liability and important notices regarding the content on this website. By using **TravelCardFinder**, you agree to this Disclaimer.
