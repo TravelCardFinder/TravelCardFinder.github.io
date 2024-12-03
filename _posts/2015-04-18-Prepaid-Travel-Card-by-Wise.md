@@ -10,6 +10,7 @@ The **Wise Prepaid Travel Card** is an essential tool for international traveler
 
 
 ## Key Features of the Wise Travel Card
+
 | Feature | Details |
 |-------|--------|
 | Multi-Currency Support | Hold and convert money in 50+ currencies. |
@@ -43,7 +44,8 @@ The **Wise Prepaid Travel Card** is an essential tool for international traveler
 + Set your PIN and start using it.
 
 ## Eligibility and Supported Regions
-| Criteria | Details | 
+
+| Criteria | Details |
 |-------|--------|
 | Eligible Countries | Most countries in Europe, North America, Australia, New Zealand, and parts of Asia. |
 | Ineligible Countries | Countries with strict financial restrictions (e.g., North Korea, Iran, Sudan, etc.). |
