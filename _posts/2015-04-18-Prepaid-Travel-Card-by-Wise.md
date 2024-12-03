@@ -3,7 +3,7 @@ layout: post
 title:  "Prepaid Travel Card by Wise"
 date:   2015-04-18T14:25:52-05:00
 author: TravelCardFinder
-categories: Dummy
+categories: prepaid_travel_cards
 ---
 
 The **Wise Prepaid Travel Card** is an essential tool for international travelers looking to save on currency exchange fees and enjoy seamless transactions. Known for its transparency and ease of use, Wise (formerly TransferWise) offers a smart alternative to traditional travel cards.
