@@ -10,11 +10,15 @@ exclude:
 
 # Site settings
 title: TravelCardFinder
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+subtitle: "Travel Smarter, Spend Better – Find Your Perfect Travel Card!"
 email: travelcardfinder@gmail.com
 name: TravelCardFinder
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Travel Card Finder is your ultimate companion for hassle-free international travel. 
+  We help you compare and discover the best travel cards tailored to your needs, 
+  ensuring you save on fees, enjoy seamless transactions, and travel with peace of mind. 
+  From multi-currency options to rewards programs, we’ve got everything covered 
+  so you can focus on exploring the world.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.

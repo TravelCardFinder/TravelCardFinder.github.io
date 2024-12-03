@@ -155,7 +155,7 @@ pre code.hljs {
     	padding-left: $em-base;
     }
     img {
-      max-height: 2.5em;
+      max-height: 4em;
       margin-top: 0.75em;
       padding-right: 1em;
     }
@@ -165,7 +165,7 @@ pre code.hljs {
   }
   nav {
     float: none;
-    padding: 1.25em 0;
+    padding: 1.8em 0;
     @include media ($tablet) {
       float: right;
       line-height: 1.5em;
@@ -396,9 +396,15 @@ pre code.hljs {
 	.wrapper {
 		@include outer-container;
 	}
-	.footer-heading {
-
+	.img-footer-heading {
+		.img-footer {
+			width: 200px;
+		}
+		.footer-heading {
+			display: none;
+		}
 	}
+	
 	/*
 	*	Site Navigation (left)
 	*/

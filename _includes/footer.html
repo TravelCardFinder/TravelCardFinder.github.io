@@ -1,15 +1,18 @@
 <footer class="site-footer">
 
   <div class="wrapper">
+    <div class="img-footer-heading">
+      <img class="img-footer" src="/assets/travel-card-finder-high-resolution-logo-transparent.png">
+      <h3 class="footer-heading">{{ site.title }}</h3>
+    </div>
 
-    <h3 class="footer-heading">{{ site.title }}</h3>
 
     <div class="site-navigation">
 
-      <p><strong>Site Map</strong></p>
+      <p><strong>Pages</strong></p>
       <ul class="pages">
-				<li><a href="/affiliate-discloser">Affiliate Discloser</a></li>
         <li><a href="/disclaimer">Disclaimer</a></li>
+				<li><a href="/affiliate-discloser">Affiliate Discloser</a></li>
         <li><a href="/privacy-and-policies">Privacy and Policies</a></li>
         <li><a href="/terms-and-conditions">Terms and Conditions</a></li>
       </ul>
@@ -28,12 +31,12 @@
 
         {% for social in site.social %}
           {% if social.url != "" %}
-          <li>
+          <!-- <li>
             <a href="{{ social.url }}" title="{{ social.desc }}">
               <i class="fa fa-{{ social.icon }}"></i>
               <span class="username">{% if social.username %}{{ social.username }}{% else %}{{ social.name }}{% endif %}</span>
             </a>
-          </li>
+          </li> -->
           {% endif %}
         {% endfor %}
 
@@ -42,7 +45,7 @@
 
     <div class="site-signature">
       <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
-      <p class="text">{{ site.description }}</p>
+      <p class="text">{{ site.description | truncatewords: 39 }}</p>
     </div>
 
   </div>
