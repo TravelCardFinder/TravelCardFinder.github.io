@@ -5,8 +5,6 @@ permalink: /terms-and-conditions/
 
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
-
 Welcome to [TravelCardFinder](https://travelcardfinder.github.io/)! By accessing or using this website, you agree to the terms outlined below. Please read these terms carefully.
 
 ## 1. About TravelCardFinder
