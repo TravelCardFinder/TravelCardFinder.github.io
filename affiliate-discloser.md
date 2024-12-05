@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Affiliate Discloser
-permalink: /Affiliate-Discloser/
+permalink: /affiliate-discloser/
 ---
 
 At **[TravelCardFinder](https://travelcardfinder.github.io)**, transparency is a priority. This Affiliate Disclosure explains how the site generates revenue through affiliate programs and how it may affect users.
