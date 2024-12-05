@@ -78,6 +78,9 @@
     width: 70%;
     height: 395px;
     position: relative;
+    @media screen and (max-width: 600px) {
+        width: 100%;
+    }
 }
 .card {
     border: 1px solid #ddd;
