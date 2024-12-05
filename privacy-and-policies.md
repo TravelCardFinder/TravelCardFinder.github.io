@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy and Policies
-permalink: /Privacy-and-Policies/
+permalink: /privacy-and-policies/
 
 ---
 
