@@ -69,7 +69,7 @@
   }
   
   .results-container {
-    margin-top: 30px;
+    // margin-top: 30px;
     overflow: scroll;
     height: 395px;
     width: 100%;
@@ -115,7 +115,7 @@
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
-    align-items: self-end !important;
+    // align-items: self-end !important;
     @media (max-width: 600px) {
         width: auto;
         margin-top: -50px;  
