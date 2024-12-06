@@ -94,7 +94,7 @@ social:
     desc: Friend me on Facebook
     share: true
 
-  - name: GitHub
+  - name: TravelCardFinder
     icon: github
     username: TravelCardFinder
     url: https://github.com/TravelCardFinder
