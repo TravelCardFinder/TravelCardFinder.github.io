@@ -14,7 +14,7 @@ The TransferWise Travel Money Card (now known as the Wise card) is a must-have f
 ## What Is the Wise Travel Money Card?
 The Wise Travel Money Card is a debit card that lets you spend money internationally without high exchange rate fees. It’s tied to your Wise account, which allows you to hold, send, and receive money in multiple currencies. Whether you’re traveling for leisure, business, or studying abroad, this card helps you avoid the hidden fees often charged by traditional banks.
 
-<!-- excerpt-end -->
+<hr>
 
 ## Features of the Wise Travel Money Card
 Here’s a breakdown of the key features of the Wise Travel Money Card:
@@ -61,6 +61,8 @@ Advanced fraud detection to keep your money safe.
 Send money to over 70 countries directly from your Wise account.
 Quick transfers at low fees compared to traditional banks.
 
+<hr>
+
 ## How Does the Wise Card Work?
 
 #### 1. Sign Up for a Wise Account:
@@ -75,6 +77,7 @@ Deposit money into your Wise account using your bank, debit card, or credit card
 #### 4. Use Your Card:
 Once your card is activated, you can use it for payments or withdrawals. Wise will automatically handle currency conversion when necessary.
 
+<hr>
 
 ## Advantages of Using the Wise Travel Money Card
 ### 1. Transparent Pricing
@@ -93,6 +96,8 @@ Holding multiple currencies means you don’t have to worry about converting mon
 ### 5. Global Access
 Whether you're in Europe, Asia, the Americas, or Africa, the Wise card works seamlessly, making it a reliable companion for world travelers.
 
+<hr>
+
 ## Fees and Charges of the Wise Card
 Here’s a breakdown of the fees associated with the Wise Travel Money Card:
 
@@ -104,6 +109,8 @@ Here’s a breakdown of the fees associated with the Wise Travel Money Card:
 | Currency Conversion Fee | 0.35% to 1% (depends on currency pair) |
 | Monthly Maintenance Fee | Free |
 | Lost Card Replacement	| Small fee (varies by region) |
+
+<hr>
 
 ## How to Use the Wise Card for Travel
 
@@ -122,6 +129,8 @@ Use the Wise app to monitor your transactions and stick to your budget.
 ### 5. Top-Up on the Go:
 Need more funds? Quickly top-up your Wise account through the app.
 
+<hr>
+
 ## Who Can Benefit from the Wise Travel Money Card?
 
 ### 1. Frequent Travelers
@@ -136,6 +145,8 @@ The Wise card makes it easy for students to handle living expenses in a foreign 
 ### 4. Online Shoppers
 If you shop from international websites, the Wise card provides better exchange rates and lower transaction fees.
 
+<hr>
+
 ## Limitations of the Wise Card
 While the Wise Travel Money Card is great, it’s not perfect:
 
@@ -149,76 +160,79 @@ While the Wise Travel Money Card is great, it’s not perfect:
 3. Order the card and pay the issuance fee.
 4. Wait for the card to arrive by mail (typically within 1–2 weeks).
 
+<hr>
+
 ## Top up and spend your holiday money in over 40 currencies
 
 <table>
-        <tr>
-            <td><a href="#">Argentine Peso</a></td>
-            <td><a href="#">Egyptian Pound</a></td>
-            <td><a href="#">Moroccan Dirham</a></td>
-            <td><a href="#">South African Rand</a></td>
-        </tr>
-        <tr>
-            <td><a href="#">Australian Dollar</a></td>
-            <td><a href="#">Euro</a></td>
-            <td><a href="#">Nepalese Rupee</a></td>
-            <td><a href="#">Sri Lankan Rupee</a></td>
-        </tr>
-        <tr>
-            <td><a href="#">Bangladeshi Taka</a></td>
-            <td><a href="#">Georgian Lari</a></td>
-            <td><a href="#">New Zealand Dollar</a></td>
-            <td><a href="#">Swedish Krona</a></td>
-        </tr>
-        <tr>
-            <td><a href="#">British Pound</a></td>
-            <td><a href="#">Hong Kong Dollar</a></td>
-            <td><a href="#">Nigerian Naira</a></td>
-            <td><a href="#">Swiss Franc</a></td>
-        </tr>
-        <tr>
-            <td><a href="#">Bulgarian Lev</a></td>
-            <td><a href="#">Hungarian Forint</a></td>
-            <td><a href="#">Norwegian Krone</a></td>
-            <td><a href="#">Turkish Lira</a></td>
-        </tr>
-        <tr>
-            <td><a href="#">Canadian Dollar</a></td>
-            <td><a href="#">Indian Rupee</a></td>
-            <td><a href="#">Pakistani Rupee</a></td>
-            <td><a href="#">UAE Dirham</a></td>
-        </tr>
-        <tr>
-            <td><a href="#">Chilean Peso</a></td>
-            <td><a href="#">Indonesian Rupiah</a></td>
-            <td><a href="#">Philippine Peso</a></td>
-            <td><a href="#">Ukrainian Hryvnia</a></td>
-        </tr>
-        <tr>
-            <td><a href="#">Chinese Yuan</a></td>
-            <td><a href="#">Israeli Shekel</a></td>
-            <td><a href="#">Polish Zloty</a></td>
-            <td><a href="#">US Dollar</a></td>
-        </tr>
-        <tr>
-            <td><a href="#">Croatian Kuna</a></td>
-            <td><a href="#">Japanese Yen</a></td>
-            <td><a href="#">Romanian Leu</a></td>
-            <td><a href="#">Vietnamese Dong</a></td>
-        </tr>
-        <tr>
-            <td><a href="#">Czech Koruna</a></td>
-            <td><a href="#">Kenyan Shilling</a></td>
-            <td><a href="#">South Korean Won</a></td>
-            <td><a href="#">Singapore Dollar</a></td>
-        </tr>
-        <tr>
-            <td><a href="#">Danish Krone</a></td>
-            <td><a href="#">Mexican Peso</a></td>
-            <td><a href="#">Thai Baht</a></td>
-            <td><a href="#">Malaysian Ringgit</a></td>
-        </tr>
-    </table>
+    <tr>
+        <td><a href="#">Argentine Peso</a></td>
+        <td><a href="#">Egyptian Pound</a></td>
+        <td><a href="#">Moroccan Dirham</a></td>
+        <td><a href="#">South African Rand</a></td>
+    </tr>
+    <tr>
+        <td><a href="#">Australian Dollar</a></td>
+        <td><a href="#">Euro</a></td>
+        <td><a href="#">Nepalese Rupee</a></td>
+        <td><a href="#">Sri Lankan Rupee</a></td>
+    </tr>
+    <tr>
+        <td><a href="#">Bangladeshi Taka</a></td>
+        <td><a href="#">Georgian Lari</a></td>
+        <td><a href="#">New Zealand Dollar</a></td>
+        <td><a href="#">Swedish Krona</a></td>
+    </tr>
+    <tr>
+        <td><a href="#">British Pound</a></td>
+        <td><a href="#">Hong Kong Dollar</a></td>
+        <td><a href="#">Nigerian Naira</a></td>
+        <td><a href="#">Swiss Franc</a></td>
+    </tr>
+    <tr>
+        <td><a href="#">Bulgarian Lev</a></td>
+        <td><a href="#">Hungarian Forint</a></td>
+        <td><a href="#">Norwegian Krone</a></td>
+        <td><a href="#">Turkish Lira</a></td>
+    </tr>
+    <tr>
+        <td><a href="#">Canadian Dollar</a></td>
+        <td><a href="#">Indian Rupee</a></td>
+        <td><a href="#">Pakistani Rupee</a></td>
+        <td><a href="#">UAE Dirham</a></td>
+    </tr>
+    <tr>
+        <td><a href="#">Chilean Peso</a></td>
+        <td><a href="#">Indonesian Rupiah</a></td>
+        <td><a href="#">Philippine Peso</a></td>
+        <td><a href="#">Ukrainian Hryvnia</a></td>
+    </tr>
+    <tr>
+        <td><a href="#">Chinese Yuan</a></td>
+        <td><a href="#">Israeli Shekel</a></td>
+        <td><a href="#">Polish Zloty</a></td>
+        <td><a href="#">US Dollar</a></td>
+    </tr>
+    <tr>
+        <td><a href="#">Croatian Kuna</a></td>
+        <td><a href="#">Japanese Yen</a></td>
+        <td><a href="#">Romanian Leu</a></td>
+        <td><a href="#">Vietnamese Dong</a></td>
+    </tr>
+    <tr>
+        <td><a href="#">Czech Koruna</a></td>
+        <td><a href="#">Kenyan Shilling</a></td>
+        <td><a href="#">South Korean Won</a></td>
+        <td><a href="#">Singapore Dollar</a></td>
+    </tr>
+    <tr>
+        <td><a href="#">Danish Krone</a></td>
+        <td><a href="#">Mexican Peso</a></td>
+        <td><a href="#">Thai Baht</a></td>
+        <td><a href="#">Malaysian Ringgit</a></td>
+    </tr>
+</table>
+
 
 ## Which all countries can apply for Wise Travel Card
 The Wise card is currently available for personal customers that live in these countries and regions:
@@ -235,6 +249,8 @@ The Wise card is currently available for personal customers that live in these c
 + UK + European microstates and overseas territories*
 + USA except for residents of Nevada (US cards temporarily unavailable)
 
+<hr>
+
 ## FAQs About the Wise Travel Money Card
 
 ### 1. Is the Wise Card Safe?
@@ -249,6 +265,7 @@ You can add money through bank transfers, debit cards, or credit cards using the
 ### 4. Can I Use the Wise Card for Online Purchases?
 Absolutely! The Wise card works seamlessly for online shopping.
 
+<hr>
 
 ## Conclusion
 The Wise Travel Money Card is a fantastic tool for anyone looking to save on currency exchange and manage their money efficiently while traveling. With its low fees, transparent pricing, and convenient features, it’s no surprise that it’s a popular choice among travelers.
