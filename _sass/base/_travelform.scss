@@ -177,4 +177,7 @@
     display: flex;
     justify-content: space-between;
     align-items: self-start;
+    @media screen and (max-width: 600px) {
+      display: block;
+    }
   }
