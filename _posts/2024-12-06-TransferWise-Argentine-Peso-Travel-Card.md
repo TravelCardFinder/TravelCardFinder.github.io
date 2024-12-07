@@ -3,6 +3,7 @@ layout: post
 title:  "TransferWise Argentine Peso Travel Card: A Comprehensive Guide"
 date:   2024-12-05T14:25:52-05:00
 author: TravelCardFinder
+categories: travel_cards
 ---
 
 ![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
