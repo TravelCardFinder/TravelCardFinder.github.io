@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TransferWise Argentine Peso Travel Card: A Comprehensive Guide"
+title:  "TransferWise Argentine Peso Travel Card"
 date:   2024-12-05T14:25:52-05:00
 author: TravelCardFinder
 categories: TransferWise_travel_cards
@@ -173,7 +173,7 @@ For international students in Argentina, the Wise card ensures smooth financial 
 
 <table>
     <tr>
-        <td><a href="#">Argentine Peso</a></td>
+        <td><a href="/transferwise_travel_cards/2024/12/05/TransferWise-Argentine-Peso-Travel-Card.html">Argentine Peso</a></td>
         <td><a href="#">Egyptian Pound</a></td>
         <td><a href="#">Moroccan Dirham</a></td>
         <td><a href="#">South African Rand</a></td>
