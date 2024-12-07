@@ -9,21 +9,19 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: TravelCardFinder
+title: Travel Smarter, Find Your Perfect Travel Card
 subtitle: "Travel Smarter, Spend Better – Find Your Perfect Travel Card!"
 email: travelcardfinder@gmail.com
 name: TravelCardFinder
 description: >
   Travel Card Finder is your ultimate companion for hassle-free international travel. 
-  We help you compare and discover the best travel cards tailored to your needs, 
-  ensuring you save on fees, enjoy seamless transactions, and travel with peace of mind. 
-  From multi-currency options to rewards programs, we’ve got everything covered 
-  so you can focus on exploring the world.
+  We help you discover and compare best travel cards. 
+
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://travelcardfinder.github.io/" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/travel-card-finder-high-resolution-logo-transparent.png"
 
@@ -206,6 +204,6 @@ protocols:
     # os_repo: "https://github.com/bencentra/centrarium.com"
     # os_rcs_type: "git"
     # os_src: "git@github.com:bencentra/centrarium.com.git"
-    
+
 #seperator
 excerpt_separator: <!-- excerpt-end -->
