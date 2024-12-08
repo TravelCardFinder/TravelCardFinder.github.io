@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TransferWise Moroccan Dirham Travel Card"
-date: 2024-12-01
+date: 2024-12-07
 categories: [TransferWise Travel Cards]
 author: TravelCardFinder
 tags: [Travel Cards, Wise, Moroccan Dirham, Currency Conversion]
