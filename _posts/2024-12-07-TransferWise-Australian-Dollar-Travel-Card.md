@@ -2,7 +2,7 @@
 layout: post
 title: "TransferWise Australian Dollar Travel Card"
 date: 2024-12-07
-categories: [Travel Cards, Wise]
+categories: [TransferWise Travel Cards]
 tags: [Travel Cards, Wise, Australian Dollar, Currency Conversion, Travel in Australia]
 description: "Discover the features, benefits, and usage of the TransferWise Australian Dollar Travel Card. Learn about fees, currencies, and the best ways to use this card during your trip to Australia."
 keywords: [TransferWise, Wise Card, Australian Dollar, Travel Card, Currency Exchange, Low Fees, Benefits, Conversion]
