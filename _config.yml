@@ -21,7 +21,7 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://travelcardfinder.github.io/" # the base hostname & protocol for your site
+url: "https://travelcardfinder.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/travel-card-finder-high-resolution-logo-transparent.png"
 
