@@ -3,7 +3,7 @@ layout: post
 title:  "TransferWise Travel Money Card"
 date:   2024-12-05T14:25:52-05:00
 author: TravelCardFinder
-categories: TransferWise_travel_cards
+categories: [TransferWise Travel Cards]
 ---
 
 ![TransferWise Travel Money Card]({{ site.baseurl }}/assets/TransferWise-Travel-Money-Card.jpeg)
