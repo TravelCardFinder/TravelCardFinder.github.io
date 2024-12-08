@@ -174,7 +174,7 @@ For international students in Argentina, the Wise card ensures smooth financial 
 <table>
     <tr>
         <td><a href="/transferwise_travel_cards/2024/12/05/TransferWise-Argentine-Peso-Travel-Card.html">Argentine Peso</a></td>
-        <td><a href="#">Egyptian Pound</a></td>
+        <td><a href="/transferwise_travel_cards/2024/12/06/TransferWise-Egyptian-Pound-Travel-Card.html">Egyptian Pound</a></td>
         <td><a href="#">Moroccan Dirham</a></td>
         <td><a href="#">South African Rand</a></td>
     </tr>
