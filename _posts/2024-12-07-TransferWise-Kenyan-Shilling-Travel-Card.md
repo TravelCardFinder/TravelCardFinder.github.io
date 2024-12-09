@@ -5,6 +5,7 @@ date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "Learn everything about the TransferWise Kenyan Shilling Travel Card, including its features, benefits, fees, supported currencies, conversion rates, and the best ways to use it."
 keywords: [TransferWise, Kenyan Shilling, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
+permalink: /posts/:title.html
 ---
 
 ![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)

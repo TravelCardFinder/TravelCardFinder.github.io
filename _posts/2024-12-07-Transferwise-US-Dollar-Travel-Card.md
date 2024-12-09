@@ -5,6 +5,7 @@ date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "Everything you need to know about the TransferWise US Dollar Travel Card, including features, benefits, supported currencies, fees, conversion fees, and best ways to use it."
 keywords: [TransferWise, US Dollar, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
+permalink: /posts/:title.html
 ---
 
 ![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)

@@ -5,6 +5,7 @@ date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "Learn about the TransferWise Norwegian Krone Travel Card. Explore its features, benefits, fees, supported currencies, and tips for travelers to Norway."
 keywords: [TransferWise, Wise Card, Norwegian Krone, Travel Card, Multi-Currency Card, Currency Conversion, Travel Tips, NOK Card]
+permalink: /posts/:title.html
 ---
 
 ![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)

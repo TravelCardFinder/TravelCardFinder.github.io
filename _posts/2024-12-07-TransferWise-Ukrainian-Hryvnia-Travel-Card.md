@@ -5,6 +5,7 @@ date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "Explore all the details about the TransferWise Ukrainian Hryvnia Travel Card including its features, benefits, fees, and how to use it effectively while traveling."
 keywords: [TransferWise, Wise Card, Ukrainian Hryvnia, Travel Card, Currency Conversion, Fees, International Travel]
+permalink: /posts/:title.html
 ---
 
 ![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)

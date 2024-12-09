@@ -4,6 +4,7 @@ title:  "Prepaid Travel Card by Wise"
 date:   2024-12-02T14:25:52-05:00
 author: TravelCardFinder
 categories: [TransferWise Travel Cards]
+permalink: /posts/:title.html
 ---
 
 ![Prepaid Travel Card by Wise]({{ site.baseurl }}/assets/TransferWise_image.png)

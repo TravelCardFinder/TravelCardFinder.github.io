@@ -4,6 +4,7 @@ title:  "TransferWise Travel Money Card"
 date:   2024-12-05T14:25:52-05:00
 author: TravelCardFinder
 categories: [TransferWise Travel Cards]
+permalink: /posts/:title.html
 ---
 
 ![TransferWise Travel Money Card]({{ site.baseurl }}/assets/TransferWise-Travel-Money-Card.jpeg)

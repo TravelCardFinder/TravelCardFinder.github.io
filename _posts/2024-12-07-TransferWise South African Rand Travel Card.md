@@ -5,6 +5,7 @@ date: 2024-12-07
 categories: [TransferWise Travel Cards]
 description: "Learn all about the TransferWise South African Rand Travel Card. Discover its features, benefits, fees, supported currencies, and how to use it effectively during your travels in South Africa."
 keywords: [TransferWise, Wise Card, South African Rand, Travel Card, Currency Exchange, Fees, Benefits, Conversion]
+permalink: /posts/:title.html
 ---
 
 ![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)

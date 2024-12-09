@@ -5,6 +5,7 @@ date: 2024-12-07
 categories: [TransferWise Travel Cards]
 description: "Learn about the TransferWise Swedish Krona Travel Card, including its features, benefits, fees, supported currencies, and the best ways to use it while traveling in Sweden."
 keywords: [TransferWise, Wise Card, Swedish Krona, SEK, Travel Card, Currency Exchange, Low Fees, Sweden Travel, Multi-Currency Card, Conversion Rates]
+permalink: /posts/:title.html
 ---
 
 ![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg) 

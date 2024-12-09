@@ -5,6 +5,7 @@ date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "Discover the features and benefits of the TransferWise Turkish Lira Travel Card. Learn about fees, supported currencies, and tips for using this card effectively while traveling in Turkey."
 keywords: [TransferWise, Wise Card, Turkish Lira, Travel Card, Multi-Currency Card, Currency Conversion, Travel Tips, TRY Card]
+permalink: /posts/:title.html
 ---
 
 ![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)

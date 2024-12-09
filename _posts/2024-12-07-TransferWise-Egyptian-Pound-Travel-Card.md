@@ -6,6 +6,7 @@ author: TravelCardFinder
 categories: [TransferWise Travel Cards]
 description: "Learn everything about the TransferWise Egyptian Pound Travel Card, including its features, benefits, fees, and how to use it effectively."
 keywords: [TransferWise Egyptian Pound Travel Card, Wise EGP Card, travel money card, Egyptian currency card, travel to Egypt]
+permalink: /posts/:title.html
 ---
 
 ![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)

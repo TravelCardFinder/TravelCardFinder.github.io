@@ -5,6 +5,7 @@ date: 2024-12-07
 categories: [TransferWise Travel Cards]
 description: "Learn about the TransferWise Nepalese Rupee Travel Card, its features, benefits, and fees. Discover how to use this card to save money and manage your travel budget in Nepal efficiently."
 keywords: [TransferWise, Wise Card, Nepalese Rupee, Travel Card, Currency Exchange, Low Fees, Travel in Nepal, Benefits, Conversion]
+permalink: /posts/:title.html
 ---
 
 ![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg) 

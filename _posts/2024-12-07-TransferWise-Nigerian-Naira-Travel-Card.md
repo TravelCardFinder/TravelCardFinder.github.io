@@ -5,6 +5,7 @@ date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "Learn all about the TransferWise Nigerian Naira Travel Card. Understand its features, benefits, supported currencies, fees, and how it can help you save money on your travels."
 keywords: [TransferWise, Wise Card, Nigerian Naira, Travel Card, Currency Conversion, Multi-Currency Card, Naira, Low Fees, Travel Tips]
+permalink: /posts/:title.html
 ---
 
 ![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)

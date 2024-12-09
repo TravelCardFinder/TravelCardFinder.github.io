@@ -5,6 +5,7 @@ date: 2024-12-01
 categories: [TransferWise Travel Cards]
 description: "Discover the TransferWise British Pound Travel Card, its features, benefits, fees, and best practices for using it on your UK travels."
 keywords: [TransferWise, Wise Card, British Pound, GBP, Travel Card, Currency Exchange, UK Travel, Low Fees, Multi-Currency Card, Conversion Rates]
+permalink: /posts/:title.html
 ---
 
 ![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)

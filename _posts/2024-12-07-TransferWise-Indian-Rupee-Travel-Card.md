@@ -5,6 +5,7 @@ date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "Learn about the TransferWise Indian Rupee Travel Card. Understand its features, benefits, fees, supported currencies, and tips for using it while spending in INR."
 keywords: [TransferWise, Wise Card, Indian Rupee, Travel Card, Multi-Currency Card, Currency Conversion, Travel Tips, INR Card]
+permalink: /posts/:title.html
 ---
 
 ![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg) 
