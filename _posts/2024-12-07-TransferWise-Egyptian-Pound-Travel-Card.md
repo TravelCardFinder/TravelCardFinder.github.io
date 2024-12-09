@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TransferWise Egyptian Pound Travel Card"
+title:  "TransferWise Egyptian Pound Travel Card - TravelCardFinder"
 date:   2024-12-07T14:25:52-05:00
 author: TravelCardFinder
 categories: [TransferWise Travel Cards]

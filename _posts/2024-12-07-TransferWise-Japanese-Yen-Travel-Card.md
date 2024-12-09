@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TransferWise Japanese Yen Travel Card"
+title: "TransferWise Japanese Yen Travel Card - TravelCardFinder"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "All the details you need to know about the TransferWise Japanese Yen Travel Card, including its features, benefits, supported currencies, fees, conversion fees, and the best ways to use it."

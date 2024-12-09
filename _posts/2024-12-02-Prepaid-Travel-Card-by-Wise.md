@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prepaid Travel Card by Wise"
+title:  "Prepaid Travel Card by Wise - TravelCardFinder"
 date:   2024-12-02T14:25:52-05:00
 author: TravelCardFinder
 categories: [TransferWise Travel Cards]

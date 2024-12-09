@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TransferWise Canadian Dollar Travel Card"
+title: "TransferWise Canadian Dollar Travel Card - TravelCardFinder"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "Discover the features and benefits of the TransferWise Canadian Dollar Travel Card. Learn about fees, supported currencies, and tips for using this card while traveling in Canada or spending in CAD."

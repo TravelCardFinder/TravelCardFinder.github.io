@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TransferWise Swiss Franc Travel Card"
+title: "TransferWise Swiss Franc Travel Card - TravelCardFinder"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "Learn everything about the TransferWise Swiss Franc Travel Card. Discover its features, benefits, supported currencies, fees, and how to make the most of this card while traveling."

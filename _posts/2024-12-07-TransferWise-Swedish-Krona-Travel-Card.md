@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TransferWise Swedish Krona Travel Card"
+title: "TransferWise Swedish Krona Travel Card - TravelCardFinder"
 date: 2024-12-07
 categories: [TransferWise Travel Cards]
 description: "Learn about the TransferWise Swedish Krona Travel Card, including its features, benefits, fees, supported currencies, and the best ways to use it while traveling in Sweden."

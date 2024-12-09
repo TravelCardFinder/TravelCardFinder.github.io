@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TransferWise Thai Baht Travel Card"
+title: "TransferWise Thai Baht Travel Card - TravelCardFinder"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "Learn everything you need to know about the TransferWise Thai Baht Travel Card, including features, benefits, fees, conversion rates, and the best ways to use it."

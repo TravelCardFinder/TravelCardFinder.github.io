@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TransferWise Polish Zloty Travel Card"
+title: "TransferWise Polish Zloty Travel Card - TravelCardFinder"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "Everything you need to know about the TransferWise Polish Zloty Travel Card including features, benefits, fees, supported currencies, and the best way to use it."

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TransferWise New Zealand Dollar Travel Card"
+title: "TransferWise New Zealand Dollar Travel Card - TravelCardFinder"
 date: 2024-12-07
 categories: [TransferWise Travel Cards]
 description: "Discover everything about the TransferWise New Zealand Dollar Travel Card, including features, benefits, supported currencies, fees, and the best ways to use it for your trip to New Zealand."

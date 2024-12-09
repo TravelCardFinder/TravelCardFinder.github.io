@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TransferWise Indian Rupee Travel Card"
+title: "TransferWise Indian Rupee Travel Card - TravelCardFinder"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "Learn about the TransferWise Indian Rupee Travel Card. Understand its features, benefits, fees, supported currencies, and tips for using it while spending in INR."

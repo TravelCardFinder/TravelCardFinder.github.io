@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TransferWise South African Rand Travel Card"
+title: "TransferWise South African Rand Travel Card - TravelCardFinder"
 date: 2024-12-07
 categories: [TransferWise Travel Cards]
 description: "Learn all about the TransferWise South African Rand Travel Card. Discover its features, benefits, fees, supported currencies, and how to use it effectively during your travels in South Africa."

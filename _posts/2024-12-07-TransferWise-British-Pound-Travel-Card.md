@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TransferWise British Pound Travel Card: A Smart Choice for the UK"
+title: "TransferWise British Pound Travel Card - TravelCardFinder"
 date: 2024-12-01
 categories: [TransferWise Travel Cards]
 description: "Discover the TransferWise British Pound Travel Card, its features, benefits, fees, and best practices for using it on your UK travels."

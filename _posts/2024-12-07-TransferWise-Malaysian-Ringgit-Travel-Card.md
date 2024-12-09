@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TransferWise Malaysian Ringgit Travel Card"
+title: "TransferWise Malaysian Ringgit Travel Card - TravelCardFinder"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "Learn everything you need to know about the TransferWise Malaysian Ringgit Travel Card, including features, benefits, fees, conversion rates, and how to use it effectively."

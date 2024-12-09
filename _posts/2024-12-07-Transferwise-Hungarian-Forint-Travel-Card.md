@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TransferWise Hungarian Forint Travel Card"
+title: "TransferWise Hungarian Forint Travel Card - TravelCardFinder"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "Discover the TransferWise Hungarian Forint Travel Card. Learn about its features, benefits, fees, supported currencies, and tips for making the most of it while traveling."

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TransferWise Singapore Dollar Travel Card"
+title: "TransferWise Singapore Dollar Travel Card - TravelCardFinder"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "Learn everything about the TransferWise Singapore Dollar Travel Card, including its features, benefits, fees, supported currencies, conversion rates, and the best ways to use it."

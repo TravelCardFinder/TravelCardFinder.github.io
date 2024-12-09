@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TransferWise Chinese Yuan Travel Card"
+title: "TransferWise Chinese Yuan Travel Card - TravelCardFinder"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "Learn about the TransferWise Chinese Yuan Travel Card including its features, fees, currencies, benefits, and how to use it for your international travel."

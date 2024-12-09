@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TransferWise Chilean Peso Travel Card"
+title: "TransferWise Chilean Peso Travel Card - TravelCardFinder"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "Explore the features, benefits, and tips for using the TransferWise Chilean Peso Travel Card for hassle-free transactions in Chile and beyond."

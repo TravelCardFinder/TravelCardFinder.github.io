@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TransferWise Kenyan Shilling Travel Card"
+title: "TransferWise Kenyan Shilling Travel Card - TravelCardFinder"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "Learn everything about the TransferWise Kenyan Shilling Travel Card, including its features, benefits, fees, supported currencies, conversion rates, and the best ways to use it."

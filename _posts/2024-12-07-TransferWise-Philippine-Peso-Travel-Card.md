@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TransferWise Philippine Peso Travel Card"
+title: "TransferWise Philippine Peso Travel Card - TravelCardFinder"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "Discover everything about the TransferWise Philippine Peso Travel Card, including features, benefits, fees, and the best tips for using it in the Philippines."

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TransferWise Israeli Shekel Travel Card"
+title: "TransferWise Israeli Shekel Travel Card - TravelCardFinder"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
 description: "Learn about the TransferWise Israeli Shekel Travel Card including its features, fees, currencies, benefits, and how to use it for your international travel."
