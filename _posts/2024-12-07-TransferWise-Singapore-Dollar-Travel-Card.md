@@ -3,7 +3,6 @@ layout: post
 title: "TransferWise Singapore Dollar Travel Card"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
-tags: [TransferWise, Singapore Dollar, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 description: "Learn everything about the TransferWise Singapore Dollar Travel Card, including its features, benefits, fees, supported currencies, conversion rates, and the best ways to use it."
 keywords: [TransferWise, Singapore Dollar, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 ---

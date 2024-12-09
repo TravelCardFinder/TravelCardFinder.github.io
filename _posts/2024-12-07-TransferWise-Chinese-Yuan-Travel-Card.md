@@ -3,7 +3,6 @@ layout: post
 title: "TransferWise Chinese Yuan Travel Card"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
-tags: [TransferWise, Travel Card, Chinese Yuan, Currency Conversion, Low Fees, International Travel]
 description: "Learn about the TransferWise Chinese Yuan Travel Card including its features, fees, currencies, benefits, and how to use it for your international travel."
 keywords: [TransferWise, Travel Card, Chinese Yuan, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 ---

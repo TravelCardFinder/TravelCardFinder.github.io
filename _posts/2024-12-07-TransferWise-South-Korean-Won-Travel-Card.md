@@ -3,7 +3,6 @@ layout: post
 title: "TransferWise South Korean Won Travel Card"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
-tags: [TransferWise, South Korean Won, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 description: "Learn everything about the TransferWise South Korean Won Travel Card, including its features, benefits, fees, supported currencies, conversion rates, and the best ways to use it."
 keywords: [TransferWise, South Korean Won, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 ---

@@ -3,7 +3,6 @@ layout: post
 title: "TransferWise Philippine Peso Travel Card"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
-tags: [TransferWise, Wise Card, Philippine Peso, PHP Travel Card, Currency Conversion, Multi-Currency Card]
 description: "Discover everything about the TransferWise Philippine Peso Travel Card, including features, benefits, fees, and the best tips for using it in the Philippines."
 keywords: [TransferWise, Wise Card, Philippine Peso, PHP Travel Card, Travel Cards, Currency Conversion, Multi-Currency Account]
 ---

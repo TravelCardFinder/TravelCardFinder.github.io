@@ -3,7 +3,6 @@ layout: post
 title: "TransferWise Vietnamese Dong Travel Card"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
-tags: [TransferWise, Vietnamese Dong, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 description: "Everything you need to know about the TransferWise Vietnamese Dong Travel Card, including its features, benefits, supported currencies, fees, conversion rates, and the best ways to use it."
 keywords: [TransferWise, Vietnamese Dong, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 ---

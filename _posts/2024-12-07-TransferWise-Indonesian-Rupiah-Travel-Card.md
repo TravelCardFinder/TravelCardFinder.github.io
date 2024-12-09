@@ -3,7 +3,6 @@ layout: post
 title: "TransferWise Indonesian Rupiah Travel Card"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
-tags: [TransferWise, Wise Card, Indonesian Rupiah, IDR Travel Card, Currency Conversion, Multi-Currency Card]
 description: "Learn everything about the TransferWise Indonesian Rupiah Travel Card, including its features, benefits, fees, and tips for the best use in Indonesia."
 keywords: [TransferWise, Wise Card, Indonesian Rupiah, IDR Travel Card, Travel Cards, Currency Conversion, Multi-Currency Account]
 ---

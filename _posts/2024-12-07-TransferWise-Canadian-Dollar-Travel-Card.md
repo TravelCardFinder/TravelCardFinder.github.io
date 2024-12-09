@@ -3,7 +3,6 @@ layout: post
 title: "TransferWise Canadian Dollar Travel Card"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
-tags: [TransferWise, Wise Card, Canadian Dollar, Travel Card, Currency Exchange, Conversion Fees, CAD Card]
 description: "Discover the features and benefits of the TransferWise Canadian Dollar Travel Card. Learn about fees, supported currencies, and tips for using this card while traveling in Canada or spending in CAD."
 keywords: [TransferWise, Wise Card, Canadian Dollar, Travel Card, Multi-Currency Card, Currency Conversion, Travel Tips, CAD Card]
 ---

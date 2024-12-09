@@ -3,7 +3,6 @@ layout: post
 title: "TransferWise Israeli Shekel Travel Card"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
-tags: [TransferWise, Travel Card, Israeli Shekel, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 description: "Learn about the TransferWise Israeli Shekel Travel Card including its features, fees, currencies, benefits, and how to use it for your international travel."
 keywords: [TransferWise, Travel Card, Israeli Shekel, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 ---

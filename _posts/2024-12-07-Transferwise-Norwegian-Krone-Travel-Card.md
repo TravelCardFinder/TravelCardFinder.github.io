@@ -3,7 +3,6 @@ layout: post
 title: "TransferWise Norwegian Krone Travel Card"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
-tags: [TransferWise, Wise Card, Norwegian Krone, Travel Card, Currency Exchange, Conversion Fees, Travel Tips, NOK Card]
 description: "Learn about the TransferWise Norwegian Krone Travel Card. Explore its features, benefits, fees, supported currencies, and tips for travelers to Norway."
 keywords: [TransferWise, Wise Card, Norwegian Krone, Travel Card, Multi-Currency Card, Currency Conversion, Travel Tips, NOK Card]
 ---

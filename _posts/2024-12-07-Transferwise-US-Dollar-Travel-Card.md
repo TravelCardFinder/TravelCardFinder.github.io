@@ -3,7 +3,6 @@ layout: post
 title: "TransferWise US Dollar Travel Card"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
-tags: [TransferWise, Travel Card, US Dollar, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 description: "Everything you need to know about the TransferWise US Dollar Travel Card, including features, benefits, supported currencies, fees, conversion fees, and best ways to use it."
 keywords: [TransferWise, US Dollar, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 ---

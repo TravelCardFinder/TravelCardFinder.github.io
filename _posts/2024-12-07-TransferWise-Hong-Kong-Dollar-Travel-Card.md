@@ -3,7 +3,6 @@ layout: post
 title: "TransferWise Hong Kong Dollar Travel Card"
 date: 2024-12-07
 categories: [TransferWise Travel Cards]
-tags: [Travel Cards, Wise, Hong Kong Dollar, HKD, Currency Conversion, Low Fees, Multi-Currency Card]
 description: "Learn everything about the TransferWise Hong Kong Dollar Travel Card. Understand its features, benefits, fees, supported currencies, and the best ways to use it for hassle-free travel."
 keywords: [TransferWise, Wise Card, Hong Kong Dollar, Travel Card, Currency Exchange, Multi-Currency Card, HKD, Low Fees, Travel Tips]
 ---

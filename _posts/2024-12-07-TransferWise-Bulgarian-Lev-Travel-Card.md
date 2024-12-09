@@ -3,7 +3,6 @@ layout: post
 title: "TransferWise Bulgarian Lev Travel Card"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
-tags: [TransferWise, Wise Card, Bulgarian Lev, Travel Card, Currency Exchange, Conversion Fees, Travel Tips]
 description: "Learn everything about the TransferWise Bulgarian Lev Travel Card. Discover its features, benefits, supported currencies, fees, and how to make the most of this card while traveling."
 keywords: [TransferWise, Wise Card, Bulgarian Lev, Travel Card, Currency Conversion, Multi-Currency Card, Travel Tips, Bulgarian Lev Card]
 ---

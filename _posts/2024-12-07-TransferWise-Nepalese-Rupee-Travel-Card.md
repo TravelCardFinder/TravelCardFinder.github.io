@@ -3,7 +3,6 @@ layout: post
 title: "TransferWise Nepalese Rupee Travel Card"
 date: 2024-12-07
 categories: [TransferWise Travel Cards]
-tags: [Travel Cards, Wise, Nepalese Rupee, Currency Exchange, Travel in Nepal]
 description: "Learn about the TransferWise Nepalese Rupee Travel Card, its features, benefits, and fees. Discover how to use this card to save money and manage your travel budget in Nepal efficiently."
 keywords: [TransferWise, Wise Card, Nepalese Rupee, Travel Card, Currency Exchange, Low Fees, Travel in Nepal, Benefits, Conversion]
 ---

@@ -3,7 +3,6 @@ layout: post
 title: "TransferWise Pakistani Rupee Travel Card"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
-tags: [TransferWise, Wise Card, Pakistani Rupee, PKR Travel Card, Currency Conversion, Multi-Currency Card]
 description: "Discover the TransferWise Pakistani Rupee Travel Card. Learn about its features, benefits, fees, supported currencies, and tips for using it effectively for PKR transactions."
 keywords: [TransferWise, Wise Card, Pakistani Rupee, PKR Card, Travel Card, Currency Conversion, Wise Multi-Currency Account]
 ---

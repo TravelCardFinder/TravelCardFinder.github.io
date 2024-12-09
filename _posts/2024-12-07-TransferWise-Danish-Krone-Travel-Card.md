@@ -3,7 +3,6 @@ layout: post
 title: "TransferWise Danish Krone Travel Card"
 date: 2024-12-08
 categories: [TransferWise Travel Cards]
-tags: [TransferWise, Danish Krone, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 description: "Learn everything about the TransferWise Danish Krone Travel Card, including its features, benefits, fees, supported currencies, conversion rates, and the best ways to use it."
 keywords: [TransferWise, Danish Krone, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 ---

@@ -3,7 +3,6 @@ layout: post
 title: "TransferWise Euro Travel Card"
 date: 2024-12-07
 categories: [TransferWise Travel Cards]
-tags: [Travel Cards, Wise, Euro, Currency Exchange, Travel in Europe]
 description: "Discover the features, benefits, and fees of the TransferWise Euro Travel Card. Learn how to use it for your travels in Europe and save on currency exchange fees."
 keywords: [TransferWise, Wise Card, Euro Travel Card, Currency Exchange, Low Fees, Benefits, Conversion, Travel Tips]
 ---

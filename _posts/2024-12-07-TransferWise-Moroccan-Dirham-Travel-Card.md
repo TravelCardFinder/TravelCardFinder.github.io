@@ -4,7 +4,6 @@ title: "TransferWise Moroccan Dirham Travel Card"
 date: 2024-12-07
 categories: [TransferWise Travel Cards]
 author: TravelCardFinder
-tags: [Travel Cards, Wise, Moroccan Dirham, Currency Conversion]
 description: "Learn everything about the TransferWise Moroccan Dirham Travel Card. Discover its features, benefits, fees, and how to use it effectively during your travels in Morocco."
 keywords: [TransferWise, Wise Card, Moroccan Dirham, Travel Card, Currency Exchange, Fees, Benefits, Conversion]
 ---

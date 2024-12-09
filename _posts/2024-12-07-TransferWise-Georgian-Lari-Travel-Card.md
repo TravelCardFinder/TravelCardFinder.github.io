@@ -3,7 +3,6 @@ layout: post
 title: "TransferWise Georgian Lari Travel Card"
 date: 2024-12-07
 categories: [TransferWise Travel Cards]
-tags: [Travel Cards, Wise, Georgian Lari, Currency Exchange, Travel in Georgia]
 description: "Learn about the TransferWise Georgian Lari Travel Card, its features, benefits, supported currencies, fees, and the best ways to use it when traveling in Georgia."
 keywords: [TransferWise, Wise Card, Georgian Lari, Travel Card, Currency Exchange, Low Fees, Travel in Georgia, Benefits, Conversion]
 ---
