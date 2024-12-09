@@ -165,73 +165,74 @@ Whether you’re exploring the Pyramids of Giza, cruising on the Nile, or shoppi
 
 <table>
     <tr>
-        <td><a href="/transferwise_travel_cards/2024/12/05/TransferWise-Argentine-Peso-Travel-Card.html">Argentine Peso</a></td>
-        <td><a href="/transferwise_travel_cards/2024/12/06/TransferWise-Egyptian-Pound-Travel-Card.html">Egyptian Pound</a></td>
-        <td><a href="#">Moroccan Dirham</a></td>
-        <td><a href="#">South African Rand</a></td>
+        <td><a href="/posts/TransferWise-Argentine-Peso-Travel-Card.html">Argentine Peso</a></td>
+        <td><a href="/posts/TransferWise-Egyptian-Pound-Travel-Card.html">Egyptian Pound</a></td>
+        <td><a href="/posts/TransferWise-Moroccan-Dirham-Travel-Card.html">Moroccan Dirham</a></td>
+        <td><a href="/posts/TransferWise-South-African-Rand-Travel-Card.html">South African Rand</a></td>
     </tr>
     <tr>
-        <td><a href="#">Australian Dollar</a></td>
-        <td><a href="#">Euro</a></td>
-        <td><a href="#">Nepalese Rupee</a></td>
-        <td><a href="#">Sri Lankan Rupee</a></td>
+        <td><a href="/posts/TransferWise-Australian-Dollar-Travel-Card.html">Australian Dollar</a></td>
+        <td><a href="/posts/TransferWise-Euro-Travel-Card.html">Euro</a></td>
+        <td><a href="/posts/TransferWise-Nepalese-Rupee-Travel-Card.html">Nepalese Rupee</a></td>
+        <td><a href="/posts/TransferWise-Sri-Lankan-Rupee-Travel-Card.html">Sri Lankan Rupee</a></td>
     </tr>
     <tr>
-        <td><a href="#">Bangladeshi Taka</a></td>
-        <td><a href="#">Georgian Lari</a></td>
-        <td><a href="#">New Zealand Dollar</a></td>
-        <td><a href="#">Swedish Krona</a></td>
+        <td><a href="/posts/TransferWise-Bangladeshi-Taka-Travel-Card.html">Bangladeshi Taka</a></td>
+        <td><a href="/posts/TransferWise-Georgian-Lari-Travel-Card.html">Georgian Lari</a></td>
+        <td><a href="/posts/TransferWise-New-Zealand-Dollar-Travel-Card.html">New Zealand Dollar</a></td>
+        <td><a href="/posts/TransferWise-Swedish-Krona-Travel-Card.html">Swedish Krona</a></td>
     </tr>
     <tr>
-        <td><a href="#">British Pound</a></td>
-        <td><a href="#">Hong Kong Dollar</a></td>
-        <td><a href="#">Nigerian Naira</a></td>
-        <td><a href="#">Swiss Franc</a></td>
+        <td><a href="/posts/TransferWise-British-Pound-Travel-Card.html">British Pound</a></td>
+        <td><a href="/posts/TransferWise-Hong-Kong-Dollar-Travel-Card.html">Hong Kong Dollar</a></td>
+        <td><a href="/posts/TransferWise-Nigerian-Naira-Travel-Card.html">Nigerian Naira</a></td>
+        <td><a href="/posts/TransferWise-Swiss-Franc-Travel-Card.html">Swiss Franc</a></td>
     </tr>
     <tr>
-        <td><a href="#">Bulgarian Lev</a></td>
-        <td><a href="#">Hungarian Forint</a></td>
-        <td><a href="#">Norwegian Krone</a></td>
-        <td><a href="#">Turkish Lira</a></td>
+        <td><a href="/posts/TransferWise-Bulgarian-Lev-Travel-Card.html">Bulgarian Lev</a></td>
+        <td><a href="/posts/TransferWise-Hungarian-Forint-Travel-Card.html">Hungarian Forint</a></td>
+        <td><a href="/posts/TransferWise-Norwegian-Krone-Travel-Card.html">Norwegian Krone</a></td>
+        <td><a href="/posts/TransferWise-Turkish-Lira-Travel-Card.html">Turkish Lira</a></td>
     </tr>
     <tr>
-        <td><a href="#">Canadian Dollar</a></td>
-        <td><a href="#">Indian Rupee</a></td>
-        <td><a href="#">Pakistani Rupee</a></td>
-        <td><a href="#">UAE Dirham</a></td>
+        <td><a href="/posts/TransferWise-Canadian-Dollar-Travel-Card.html">Canadian Dollar</a></td>
+        <td><a href="/posts/TransferWise-Indian-Rupee-Travel-Card.html">Indian Rupee</a></td>
+        <td><a href="/posts/TransferWise-Pakistani-Rupee-Travel-Card.html">Pakistani Rupee</a></td>
+        <td><a href="/posts/TransferWise-UAE-Dirham-Travel-Card.html">UAE Dirham</a></td>
     </tr>
     <tr>
-        <td><a href="#">Chilean Peso</a></td>
-        <td><a href="#">Indonesian Rupiah</a></td>
-        <td><a href="#">Philippine Peso</a></td>
-        <td><a href="#">Ukrainian Hryvnia</a></td>
+        <td><a href="/posts/TransferWise-Chilean-Peso-Travel-Card.html">Chilean Peso</a></td>
+        <td><a href="/posts/TransferWise-Indonesian-Rupiah-Travel-Card.html">Indonesian Rupiah</a></td>
+        <td><a href="/posts/TransferWise-Philippine-Peso-Travel-Card.html">Philippine Peso</a></td>
+        <td><a href="/posts/TransferWise-Ukrainian-Hryvnia-Travel-Card.html">Ukrainian Hryvnia</a></td>
     </tr>
     <tr>
-        <td><a href="#">Chinese Yuan</a></td>
-        <td><a href="#">Israeli Shekel</a></td>
-        <td><a href="#">Polish Zloty</a></td>
-        <td><a href="#">US Dollar</a></td>
+        <td><a href="/posts/TransferWise-Chinese-Yuan-Travel-Card.html">Chinese Yuan</a></td>
+        <td><a href="/posts/TransferWise-Israeli-Shekel-Travel-Card.html">Israeli Shekel</a></td>
+        <td><a href="/posts/TransferWise-Polish-Zloty-Travel-Card.html">Polish Zloty</a></td>
+        <td><a href="/posts/TransferWise-US-Dollar-Travel-Card.html">US Dollar</a></td>
     </tr>
     <tr>
-        <td><a href="#">Croatian Kuna</a></td>
-        <td><a href="#">Japanese Yen</a></td>
-        <td><a href="#">Romanian Leu</a></td>
-        <td><a href="#">Vietnamese Dong</a></td>
+        <td><a href="/posts/TransferWise-Croatian-Kuna-Travel-Card.html">Croatian Kuna</a></td>
+        <td><a href="/posts/TransferWise-Japanese-Yen-Travel-Card.html">Japanese Yen</a></td>
+        <td><a href="/posts/TransferWise-Romanian-Leu-Travel-Card.html">Romanian Leu</a></td>
+        <td><a href="/posts/TransferWise-Vietnamese-Dong-Travel-Card.html">Vietnamese Dong</a></td>
     </tr>
     <tr>
-        <td><a href="#">Czech Koruna</a></td>
-        <td><a href="#">Kenyan Shilling</a></td>
-        <td><a href="#">South Korean Won</a></td>
-        <td><a href="#">Singapore Dollar</a></td>
+        <td><a href="/posts/TransferWise-Czech-Koruna-Travel-Card.html">Czech Koruna</a></td>
+        <td><a href="/posts/TransferWise-Kenyan-Shilling-Travel-Card.html">Kenyan Shilling</a></td>
+        <td><a href="/posts/TransferWise-South-Korean-Won-Travel-Card.html">South Korean Won</a></td>
+        <td><a href="/posts/TransferWise-Singapore-Dollar-Travel-Card.html">Singapore Dollar</a></td>
     </tr>
     <tr>
-        <td><a href="#">Danish Krone</a></td>
-        <td><a href="#">Mexican Peso</a></td>
-        <td><a href="#">Thai Baht</a></td>
-        <td><a href="#">Malaysian Ringgit</a></td>
+        <td><a href="/posts/TransferWise-Danish-Krone-Travel-Card.html">Danish Krone</a></td>
+        <td><a href="/posts/TransferWise-Mexican-Peso-Travel-Card.html">Mexican Peso</a></td>
+        <td><a href="/posts/TransferWise-Thai-Baht-Travel-Card.html">Thai Baht</a></td>
+        <td><a href="/posts/TransferWise-Malaysian-Ringgit-Travel-Card.html">Malaysian Ringgit</a></td>
     </tr>
 </table>
 
+---
 
 ## Which all countries can apply for Wise Travel Card
 The Wise card is currently available for personal customers that live in these countries and regions:
