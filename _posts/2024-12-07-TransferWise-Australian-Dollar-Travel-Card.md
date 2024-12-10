@@ -190,8 +190,8 @@ To get the Wise Travel Card, you need to meet these requirements:
     </tr>
     <tr>
         <td><a href="/posts/TransferWise-Bulgarian-Lev-Travel-Card.html">Bulgarian Lev</a></td>
-        <td><a href="/posts/TransferWise-Hungarian-Forint-Travel-Card.html">Hungarian Forint</a></td>
-        <td><a href="/posts/TransferWise-Norwegian-Krone-Travel-Card.html">Norwegian Krone</a></td>
+        <td><a href="/posts/Transferwise-Hungarian-Forint-Travel-Card.html">Hungarian Forint</a></td>
+        <td><a href="/posts/Transferwise-Norwegian-Krone-Travel-Card.html">Norwegian Krone</a></td>
         <td><a href="/posts/TransferWise-Turkish-Lira-Travel-Card.html">Turkish Lira</a></td>
     </tr>
     <tr>
@@ -210,7 +210,7 @@ To get the Wise Travel Card, you need to meet these requirements:
         <td><a href="/posts/TransferWise-Chinese-Yuan-Travel-Card.html">Chinese Yuan</a></td>
         <td><a href="/posts/TransferWise-Israeli-Shekel-Travel-Card.html">Israeli Shekel</a></td>
         <td><a href="/posts/TransferWise-Polish-Zloty-Travel-Card.html">Polish Zloty</a></td>
-        <td><a href="/posts/TransferWise-US-Dollar-Travel-Card.html">US Dollar</a></td>
+        <td><a href="/posts/Transferwise-US-Dollar-Travel-Card.html">US Dollar</a></td>
     </tr>
     <tr>
         <td><a href="/posts/TransferWise-Croatian-Kuna-Travel-Card.html">Croatian Kuna</a></td>
