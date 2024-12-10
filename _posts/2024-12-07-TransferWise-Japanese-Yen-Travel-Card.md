@@ -8,7 +8,7 @@ keywords: [TransferWise, Japanese Yen, Travel Card, Currency Conversion, Low Fee
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Japanese Yen Travel Card]({{ site.baseurl }}/assets/TransferWise-Japanese-Yen-Travel-Card.jpeg)
 
 Traveling to Japan or any other country can be exciting, but managing your money abroad can sometimes be complicated. The **TransferWise Japanese Yen Travel Card** offers a simple and effective way to spend money in **Japanese Yen (JPY)** and multiple other currencies while traveling. It is designed to make your travel easier by allowing you to spend money at real exchange rates with low fees, and without the hassle of carrying cash.
 

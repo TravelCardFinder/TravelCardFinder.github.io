@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, Bulgarian Lev, Travel Card, Currency Convers
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Bulgarian Lev Travel Card]({{ site.baseurl }}/assets/TransferWise-Bulgarian-Lev-Travel-Card.jpeg)
 
 If you are planning to travel to Bulgaria or any country that uses the **Bulgarian Lev (BGN)**, managing your money can be much easier with the **TransferWise Bulgarian Lev Travel Card** (also known as the **Wise Card**). This travel card helps you manage your Bulgarian Lev and other currencies with a great exchange rate and low fees. In this article, we will cover everything you need to know about this card, including its features, benefits, fees, and how to use it to save money while traveling.
 

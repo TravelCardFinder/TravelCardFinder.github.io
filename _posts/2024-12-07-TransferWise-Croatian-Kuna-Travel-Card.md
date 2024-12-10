@@ -8,7 +8,7 @@ keywords: [TransferWise, Croatian Kuna, Travel Card, Currency Conversion, Low Fe
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Croatian Kuna Travel Card]({{ site.baseurl }}/assets/TransferWise-Croatian-Kuna-Travel-Card.jpeg)
 
 Traveling abroad can be exciting, but managing your money while you're in a different country can often be stressful. Using a **travel card** like the **TransferWise Croatian Kuna Travel Card** can simplify your finances, help you avoid high fees, and allow you to spend money in different currencies seamlessly. Whether you are traveling to Croatia or any other country that uses the **Croatian Kuna (HRK)**, this card is designed to save you time and money with low fees and great exchange rates.
 

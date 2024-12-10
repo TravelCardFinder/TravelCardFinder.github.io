@@ -8,7 +8,7 @@ keywords: [TransferWise, Romanian Leu, Travel Card, Currency Conversion, Low Fee
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg) 
+![TransferWise Romanian Leu Travel Card]({{ site.baseurl }}/assets/TransferWise-Romanian-Leu-Travel-Card.jpeg) 
 
 Traveling abroad can be exciting, but it often comes with the challenge of managing your money in different currencies. The **TransferWise Romanian Leu Travel Card** offers a simple and effective solution for travelers who want to spend **Romanian Leu (RON)** and multiple other currencies without high fees. Whether you're traveling to Romania or other countries, this card allows you to spend money at real exchange rates with low fees and avoid the hassle of carrying cash.
 

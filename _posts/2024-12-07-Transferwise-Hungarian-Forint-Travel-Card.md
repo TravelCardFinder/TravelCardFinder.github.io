@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, Hungarian Forint, Travel Card, Currency Conv
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Hungarian Forint Travel Card]({{ site.baseurl }}/assets/TransferWise-Hungarian-Forint-Travel-Card.jpeg)
 
 Managing money while traveling can be tricky, especially when dealing with different currencies. If you're visiting Hungary or handling **Hungarian Forint (HUF)**, the **TransferWise Hungarian Forint Travel Card** (or **Wise Card**) can make your journey stress-free and cost-effective. This article provides a detailed guide to the card's features, benefits, fees, supported currencies, and tips for using it effectively.
 

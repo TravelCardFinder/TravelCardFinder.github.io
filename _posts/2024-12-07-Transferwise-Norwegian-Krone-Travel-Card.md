@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, Norwegian Krone, Travel Card, Multi-Currency
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Norwegian Krone Travel Card]({{ site.baseurl }}/assets/TransferWise-Norwegian-Krone-Travel-Card.jpeg)
 
 Traveling to Norway or dealing with **Norwegian Krone (NOK)**? The **TransferWise Norwegian Krone Travel Card**, now widely known as the **Wise Card**, is an excellent financial tool for travelers. It helps you manage multiple currencies, pay in local currency, and save on conversion fees. This article will guide you through the card's features, benefits, fees, and the best way to use it.
 

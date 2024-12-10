@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, Sri Lankan Rupee, Travel Card, Currency Exch
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg) 
+![TransferWise Sri Lankan Rupee Travel Card]({{ site.baseurl }}/assets/TransferWise-Sri-Lankan-Rupee-Travel-Card.jpeg) 
 
 Sri Lanka is a beautiful island nation known for its stunning beaches, rich culture, and diverse wildlife. If you’re planning a trip to Sri Lanka, managing your travel expenses effectively is crucial. The **TransferWise Sri Lankan Rupee Travel Card** (now called the Wise card) is the perfect tool for this. It provides a cost-effective and convenient way to handle your money abroad.
 

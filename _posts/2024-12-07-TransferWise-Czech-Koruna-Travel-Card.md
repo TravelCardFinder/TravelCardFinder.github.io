@@ -8,7 +8,7 @@ keywords: [TransferWise, Czech Koruna, Travel Card, Currency Conversion, Low Fee
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Czech Koruna Travel Card]({{ site.baseurl }}/assets/TransferWise-Czech-Koruna-Travel-Card.jpeg)
 
 Traveling abroad can be exciting, but managing your money in foreign currencies can sometimes be a challenge. Fortunately, the **TransferWise Czech Koruna Travel Card** makes it much easier to manage your money while you travel, especially in countries like the **Czech Republic**. The **Wise card**, offered by **TransferWise**, is a debit card that allows you to hold and spend **Czech Koruna (CZK)**, as well as many other currencies.
 

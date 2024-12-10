@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, UAE Dirham, AED Card, Travel Card, Currency 
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise UAE Dirham Travel Card]({{ site.baseurl }}/assets/TransferWise-UAE-Dirham-Travel-Card.jpeg)
 
 The **TransferWise UAE Dirham Travel Card** is a smart and efficient way to manage money in **UAE Dirhams (AED)** and other currencies. Whether you are traveling to the UAE for business or leisure, this card offers transparent fees, seamless currency exchange, and secure global transactions.
 

@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, Canadian Dollar, Travel Card, Multi-Currency
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Canadian Dollar Travel Card]({{ site.baseurl }}/assets/TransferWise-Canadian-Dollar-Travel-Card.jpeg)
 
 Are you planning a trip to Canada or managing payments in **Canadian Dollars (CAD)**? The **TransferWise Canadian Dollar Travel Card**, also known as the **Wise Card**, is a must-have for travelers, expats, and businesses. This guide will help you understand its features, fees, benefits, and how to use it effectively.
 

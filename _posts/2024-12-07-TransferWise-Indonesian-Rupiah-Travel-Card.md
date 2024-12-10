@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, Indonesian Rupiah, IDR Travel Card, Travel C
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg) 
+![TransferWise Indonesian Rupiah Travel Card]({{ site.baseurl }}/assets/TransferWise-Indonesian-Rupiah-Travel-Card.jpeg) 
 
 The **TransferWise Indonesian Rupiah Travel Card** is a prepaid card that simplifies travel and spending in **Indonesia**. With this card, you can enjoy the real exchange rate, low fees, and the ability to manage multiple currencies through a single account. It’s perfect for travelers, expatriates, and anyone managing money internationally.
 

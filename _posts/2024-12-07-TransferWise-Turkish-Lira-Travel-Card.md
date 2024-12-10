@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, Turkish Lira, Travel Card, Multi-Currency Ca
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Turkish Lira Travel Card]({{ site.baseurl }}/assets/TransferWise-Turkish-Lira-Travel-Card.jpeg)
 
 Are you planning a trip to Turkey or managing payments in **Turkish Lira (TRY)**? The **TransferWise Turkish Lira Travel Card**, also known as the **Wise Card**, is designed for travelers and expats. With the ability to hold multiple currencies and save on exchange fees, this card is perfect for managing money in Turkey. This guide covers everything you need to know about its features, fees, and usage.
 

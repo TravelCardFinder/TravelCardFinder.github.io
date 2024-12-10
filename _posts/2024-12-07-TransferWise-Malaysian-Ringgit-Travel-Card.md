@@ -8,7 +8,7 @@ keywords: [TransferWise, Malaysian Ringgit, Travel Card, Currency Conversion, Lo
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Malaysian Ringgit Travel Card]({{ site.baseurl }}/assets/TransferWise-Malaysian-Ringgit-Travel-Card.jpeg)
 
 Traveling abroad can be both exciting and overwhelming, especially when it comes to handling money. Many travelers face high fees for currency exchange, expensive bank charges, and unfavorable conversion rates. The **TransferWise Malaysian Ringgit Travel Card** offers a solution to these problems, making it easy and affordable to manage your money while traveling to Malaysia or anywhere in the world.
 

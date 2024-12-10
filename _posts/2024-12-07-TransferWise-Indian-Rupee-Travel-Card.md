@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, Indian Rupee, Travel Card, Multi-Currency Ca
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg) 
+![TransferWise Indian Rupee Travel Card]({{ site.baseurl }}/assets/TransferWise-Indian-Rupee-Travel-Card.jpeg) 
 
 Planning a trip to India or need a convenient way to manage Indian Rupees (INR)? The **TransferWise Indian Rupee Travel Card** is a reliable option. Powered by the **Wise multi-currency account**, this card simplifies managing INR alongside other currencies, offering real exchange rates and low fees.
 

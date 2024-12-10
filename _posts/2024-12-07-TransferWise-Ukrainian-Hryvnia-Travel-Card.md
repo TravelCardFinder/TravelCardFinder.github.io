@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, Ukrainian Hryvnia, Travel Card, Currency Con
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Ukrainian Hryvnia Travel Card]({{ site.baseurl }}/assets/TransferWise-Ukrainian-Hryvnia-Travel-Card.jpeg)
 
 The **TransferWise Ukrainian Hryvnia Travel Card** is a prepaid debit card linked to your Wise multi-currency account. It allows users to hold, spend, and manage **Ukrainian Hryvnia (UAH)** and over 50 other currencies. This card is ideal for travelers, expats, or anyone who wants to make international transactions with ease. Let’s dive into everything you need to know about this versatile travel card, including its features, benefits, fees, and best practices for use.
 

@@ -8,7 +8,7 @@ keywords: [TransferWise, Kenyan Shilling, Travel Card, Currency Conversion, Low 
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Kenyan Shilling Travel Card]({{ site.baseurl }}/assets/TransferWise-Kenyan-Shilling-Travel-Card.jpeg)
 
 Traveling internationally can be an exciting experience, but managing money in foreign currencies can often lead to confusion and high fees. That's where the **TransferWise Kenyan Shilling Travel Card** comes in. This innovative card offers a hassle-free way to manage your money when traveling to **Kenya** or any other destination. The **Wise card**, issued by **TransferWise** (now **Wise**), provides a multi-currency account that lets you hold and spend **Kenyan Shillings (KES)**, along with many other currencies.
 

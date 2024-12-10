@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, New Zealand Dollar, Travel Card, Currency Ex
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise New Zealand Dollar Travel Card]({{ site.baseurl }}/assets/TransferWise-New-Zealand-Dollar-Travel-Card.jpeg)
 
 New Zealand is a dream destination known for its stunning landscapes, adventurous activities, and rich Maori culture. To enjoy your trip without worrying about currency exchange or high fees, consider the **TransferWise New Zealand Dollar Travel Card** (now called the Wise card). 
 

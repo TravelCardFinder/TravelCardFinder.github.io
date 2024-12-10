@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, Georgian Lari, Travel Card, Currency Exchang
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Georgian Lari Travel Card]({{ site.baseurl }}/assets/TransferWise-Georgian-Lari-Travel-Card.jpeg)
 
 Georgia is a fascinating destination with breathtaking mountains, rich culture, and delicious cuisine. Whether you're exploring Tbilisi's charming streets or hiking in Kazbegi, managing your money wisely is essential. The **TransferWise Georgian Lari Travel Card** (now called the Wise card) is an excellent choice for travelers who want to save money and simplify their finances.
 

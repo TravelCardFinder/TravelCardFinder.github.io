@@ -8,7 +8,7 @@ keywords: [TransferWise, Travel Card, Israeli Shekel, Currency Conversion, Low F
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg) 
+![TransferWise Israeli Shekel Travel Card]({{ site.baseurl }}/assets/TransferWise-Israeli-Shekel-Travel-Card.jpeg) 
 
 Traveling internationally can often involve dealing with exchange rates, high fees, and complicated currency conversions. However, with the **TransferWise Israeli Shekel Travel Card**, managing your money abroad has never been easier. Whether you’re visiting Israel for business or leisure, this card provides a simple, cost-effective solution for holding and spending **Israeli Shekels (ILS)** and other global currencies.
 

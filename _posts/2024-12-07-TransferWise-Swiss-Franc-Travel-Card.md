@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, Swiss Franc, Travel Card, Currency Conversio
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg) 
+![TransferWise Swiss Franc Travel Card]({{ site.baseurl }}/assets/TransferWise-Swiss-Franc-Travel-Card.jpeg)
 
 Traveling around the world is an exciting adventure, but managing your money can sometimes be a hassle, especially when it comes to handling foreign currencies. If you’re traveling to Switzerland or any other country, the **TransferWise Swiss Franc Travel Card** (also known as the **Wise Card**) is a fantastic solution. It offers a convenient way to manage your Swiss Francs (CHF) and other currencies while avoiding expensive exchange fees.
 

@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, Pakistani Rupee, PKR Card, Travel Card, Curr
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Pakistani Rupee Travel Card]({{ site.baseurl }}/assets/TransferWise-Pakistani-Rupee-Travel-Card.jpeg)
 
 The **TransferWise Pakistani Rupee Travel Card** is an excellent solution for managing money in **Pakistani Rupees (PKR)** and other currencies. Powered by the **Wise multi-currency account**, this card ensures ease of transactions, transparent fees, and the best exchange rates while traveling to or conducting business in Pakistan.
 

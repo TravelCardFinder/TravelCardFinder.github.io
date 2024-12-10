@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, South African Rand, Travel Card, Currency Ex
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise South African Rand Travel Card]({{ site.baseurl }}/assets/TransferWise-South-African-Rand-Travel-Card.jpeg)
 
 Traveling to South Africa? Managing money while traveling can be a hassle, but with the **TransferWise South African Rand (ZAR) Travel Card**, it doesn’t have to be. This card allows you to spend in South African Rand and other currencies at the best exchange rates and with low fees. 
 

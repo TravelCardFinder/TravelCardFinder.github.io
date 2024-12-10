@@ -9,7 +9,7 @@ keywords: [TransferWise Egyptian Pound Travel Card, Wise EGP Card, travel money 
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Egyptian Pound Travel Card]({{ site.baseurl }}/assets/TransferWise-Egyptian-Pound-Travel-Card.jpeg)
 
 
 Traveling to Egypt? The **TransferWise Travel Card** (now called the Wise Card) is a simple, affordable, and safe way to manage your money. It allows you to spend in Egyptian Pounds (EGP) and many other currencies without high fees. This article will explain everything you need to know about the Wise card—its features, fees, benefits, and how to use it effectively.

@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, Chilean Peso, CLP Card, Travel Card, Currenc
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Chilean Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Chilean-Peso-Travel-Card.jpeg)
 
 The **TransferWise Chilean Peso Travel Card** is a convenient and cost-effective way to manage your money in **Chilean Pesos (CLP)** and multiple other currencies. Whether you're traveling to Chile for adventure or business, this card helps you save on fees and enjoy the real exchange rate for your transactions.
 

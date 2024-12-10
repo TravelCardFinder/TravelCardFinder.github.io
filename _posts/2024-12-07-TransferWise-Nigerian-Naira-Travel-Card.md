@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, Nigerian Naira, Travel Card, Currency Conver
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Nigerian Naira Travel Card]({{ site.baseurl }}/assets/TransferWise-Nigerian-Naira-Travel-Card.jpeg)
 
 Traveling internationally can be exciting, but handling your money in foreign currencies can often lead to confusion and unexpected fees. If you're planning a trip to Nigeria or any other country, the **TransferWise Nigerian Naira Travel Card** (also known as the **Wise Card**) offers a great way to manage your money while saving on high exchange fees. This travel card is designed to help you avoid the hidden charges that often come with traditional travel cards and bank accounts.
 

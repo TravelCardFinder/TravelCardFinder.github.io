@@ -8,7 +8,7 @@ keywords: [TransferWise, Travel Card, Chinese Yuan, Currency Conversion, Low Fee
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Chinese Yuan Travel Card]({{ site.baseurl }}/assets/TransferWise-Chinese-Yuan-Travel-Card.jpeg)
 
 The **TransferWise Chinese Yuan Travel Card** is an easy-to-use prepaid debit card that allows you to spend money in **Chinese Yuan (CNY)** and manage multiple currencies with no hidden fees. This card is ideal for people traveling to China, expatriates living in China, or anyone who needs to make international payments in **CNY**. In this article, we’ll cover everything you need to know about the **TransferWise Chinese Yuan Travel Card**, including its features, benefits, supported currencies, fees, and best practices for use.
 

@@ -8,7 +8,7 @@ keywords: [TransferWise, Thai Baht, Travel Card, Currency Conversion, Low Fees, 
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Thai Baht Travel Card]({{ site.baseurl }}/assets/TransferWise-Thai-Baht-Travel-Card.jpeg)
 
 Traveling to new countries is exciting, but handling your money while abroad can sometimes be a hassle. Foreign exchange fees, poor conversion rates, and hidden charges on credit cards or bank withdrawals can add up. That’s where the **TransferWise Thai Baht Travel Card** comes in. With this card, you can enjoy low fees, real exchange rates, and a simple way to manage your finances while traveling in **Thailand** or anywhere in the world.
 

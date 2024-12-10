@@ -8,9 +8,9 @@ keywords: [TransferWise, Wise Card, Euro Travel Card, Currency Exchange, Low Fee
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Euro Travel Card]({{ site.baseurl }}/assets/TransferWise-Euro-Travel-Card.jpeg)
 
-Planning a trip to Europe? Managing your travel money in different countries can be challenging, especially when dealing with multiple currencies. The **TransferWise Euro Travel Card** (now called the Wise card) is a reliable solution to make spending in euros and other currencies simple, affordable, and hassle-free.
+Planning-a trip to Europe? Managing your travel money in different countries can be challenging, especially when dealing with multiple currencies. The **TransferWise Euro Travel Card** (now called the Wise card) is a reliable solution to make spending in euros and other currencies simple, affordable, and hassle-free.
 
 In this article, we’ll explore the features, benefits, fees, and best ways to use the Wise Euro Travel Card to make the most of your European trip.
 

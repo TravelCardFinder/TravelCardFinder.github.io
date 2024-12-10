@@ -8,7 +8,7 @@ keywords: [TransferWise, Vietnamese Dong, Travel Card, Currency Conversion, Low 
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Vietnamese Dong Travel Card]({{ site.baseurl }}/assets/TransferWise-Vietnamese-Dong-Travel-Card.jpeg)
 
 Traveling can be a wonderful experience, but managing money in foreign currencies can be a challenge. The **TransferWise Vietnamese Dong Travel Card** is a convenient solution for anyone traveling to Vietnam or other countries, offering a smart way to manage your money without the high fees typically associated with foreign transactions. With the **Wise card**, you can enjoy low fees, real exchange rates, and the flexibility of using multiple currencies in a single account.
 

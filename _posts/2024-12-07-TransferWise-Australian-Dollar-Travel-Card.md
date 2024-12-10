@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, Australian Dollar, Travel Card, Currency Exc
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Australian Dollar Travel Card]({{ site.baseurl }}/assets/TransferWise-Australian-Dollar-Travel-Card.jpeg)
 
 Traveling to Australia? Managing your money in a new country can be tricky. The **TransferWise Australian Dollar Travel Card** (now branded as the Wise card) makes it easy to spend, save, and manage your travel budget. With real exchange rates and transparent fees, it’s a smart choice for travelers visiting Australia.
 

@@ -9,7 +9,7 @@ keywords: [TransferWise, Wise Card, Moroccan Dirham, Travel Card, Currency Excha
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg) 
+![TransferWise Moroccan Dirham Travel Card]({{ site.baseurl }}/assets/TransferWise-Moroccan-Dirham-Travel-Card.jpeg) 
 
 If you're planning a trip to Morocco, the **TransferWise Travel Card** (also known as the Wise Card) is one of the smartest ways to manage your money. It’s a prepaid debit card that lets you spend Moroccan Dirhams (MAD) and other currencies at real exchange rates with low fees. In this article, we will explore everything you need to know about this card, including its features, benefits, fees, supported currencies, and tips for the best way to use it.
 

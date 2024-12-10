@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, British Pound, GBP, Travel Card, Currency Ex
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise British Pound Travel Card]({{ site.baseurl }}/assets/TransferWise-British-Pound-Travel-Card.jpeg)
 
 Traveling to the United Kingdom can be exciting, but managing your finances while you're there is equally important. The **TransferWise British Pound Travel Card** (now known as the Wise card) is an excellent tool to help you control your travel expenses effectively and affordably.
 

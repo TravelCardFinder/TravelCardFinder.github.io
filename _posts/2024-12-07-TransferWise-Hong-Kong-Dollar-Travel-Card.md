@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, Hong Kong Dollar, Travel Card, Currency Exch
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg)
+![TransferWise Hong Kong Dollar Travel Card]({{ site.baseurl }}/assets/TransferWise-Hong-Kong-Dollar-Travel-Card.jpeg)
 
 When you travel to Hong Kong, managing your finances becomes a priority. The **TransferWise Hong Kong Dollar Travel Card** (now known as the Wise card) is one of the best tools for managing money while traveling. It helps you avoid high fees and hidden charges that are often associated with traditional travel cards or bank accounts.
 

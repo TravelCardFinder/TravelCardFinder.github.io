@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, Philippine Peso, PHP Travel Card, Travel Car
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg) 
+![TransferWise Philippine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Philippine-Peso-Travel-Card.jpeg) 
 
 The **TransferWise Philippine Peso Travel Card** is a practical and affordable solution for anyone traveling to or living in the **Philippines**. With its low fees, real exchange rates, and multi-currency features, this card is perfect for tourists, expatriates, and international shoppers. Learn more about its features, fees, and how to use it effectively.
 

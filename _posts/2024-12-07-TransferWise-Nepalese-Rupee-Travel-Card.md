@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, Nepalese Rupee, Travel Card, Currency Exchan
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg) 
+![TransferWise Nepalese Rupee Travel Card]({{ site.baseurl }}/assets/TransferWise-Nepalese-Rupee-Travel-Card.jpeg) 
 
 Traveling to Nepal is an exciting adventure, with its breathtaking mountains, rich culture, and vibrant markets. However, managing your money while traveling can be stressful, especially when dealing with currency exchange. The **TransferWise Nepalese Rupee Travel Card** (now branded as the Wise card) is an easy and affordable way to handle your travel money.
 

@@ -8,7 +8,7 @@ keywords: [TransferWise, Wise Card, Swedish Krona, SEK, Travel Card, Currency Ex
 permalink: /posts/:title.html
 ---
 
-![TransferWise Argentine Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Argentine-Peso-Travel-Card.jpeg) 
+![TransferWise Swedish Krona Travel Card]({{ site.baseurl }}/assets/TransferWise-Swedish-Krona-Travel-Card.jpeg) 
 
 Sweden is a fantastic destination known for its stunning landscapes, vibrant cities, and fascinating culture. When visiting Sweden, having the right travel card can make your trip more convenient and cost-effective. The **TransferWise Swedish Krona Travel Card** (now known as the Wise card) is a perfect choice for managing your travel expenses in Sweden.
 
