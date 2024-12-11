@@ -78,12 +78,16 @@ document.addEventListener('DOMContentLoaded', () => {
   // Stop if validation fails
   if (!valid) return;
         loader.classList.remove("hidden");
+        document.querySelector('.site-header').classList.add('overlay-header');
+        document.getElementById('find-cards').innerHTML = "Finding Best Cards...";
         fetch(apiEndpoint)
             .then(response => response.json())
             .then(data => {
                 // console.log(data);
                 const cards = data[0].countries.filter(card => card.country == residentCode);
                 loader.classList.add("hidden");
+                document.querySelector('.site-header').classList.remove('overlay-header');
+                document.getElementById('find-cards').innerHTML = "Find Cards";
                 displayCards(cards);
             })
             .catch(error => {

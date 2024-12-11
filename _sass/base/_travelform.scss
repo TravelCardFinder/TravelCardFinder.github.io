@@ -128,8 +128,14 @@
   }
 
    /* Loader styles */
+   header {
+    position: relative;
+   }
+   .overlay-header {
+     background-color: rgba(0, 0, 0, 0.6);
+     z-index: 100;
+   }
 .loader {
-    margin: 20px auto;
     border: 5px solid #f3f3f3;
     border-top: 5px solid #007BFF;
     border-radius: 50%;
@@ -137,9 +143,9 @@
     height: 40px;
     animation: spin 1s linear infinite;
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
+    top: calc(20% - 20px);
+    left: calc(50% - 20px);
+    // transform: translate(-50%,-50%);
     z-index: 9999;
   }
   
