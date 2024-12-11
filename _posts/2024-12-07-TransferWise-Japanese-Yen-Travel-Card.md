@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "All the details you need to know about the TransferWise Japanese Yen Travel Card, including its features, benefits, supported currencies, fees, conversion fees, and the best ways to use it."
 keywords: [TransferWise, Japanese Yen, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 permalink: /posts/:title.html
+image: /assets/TransferWise-Japanese-Yen-Travel-Card.jpeg
 ---
 
 ![TransferWise Japanese Yen Travel Card]({{ site.baseurl }}/assets/TransferWise-Japanese-Yen-Travel-Card.jpeg)

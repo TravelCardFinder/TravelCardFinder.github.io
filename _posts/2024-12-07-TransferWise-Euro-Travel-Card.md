@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "Discover the features, benefits, and fees of the TransferWise Euro Travel Card. Learn how to use it for your travels in Europe and save on currency exchange fees."
 keywords: [TransferWise, Wise Card, Euro Travel Card, Currency Exchange, Low Fees, Benefits, Conversion, Travel Tips]
 permalink: /posts/:title.html
+image: /assets/TransferWise-Euro-Travel-Card.jpeg
 ---
 
 ![TransferWise Euro Travel Card]({{ site.baseurl }}/assets/TransferWise-Euro-Travel-Card.jpeg)

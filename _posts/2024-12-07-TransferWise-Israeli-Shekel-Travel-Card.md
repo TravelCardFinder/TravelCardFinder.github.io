@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "Learn about the TransferWise Israeli Shekel Travel Card including its features, fees, currencies, benefits, and how to use it for your international travel."
 keywords: [TransferWise, Travel Card, Israeli Shekel, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 permalink: /posts/:title.html
+image: /assets/TransferWise-Israeli-Shekel-Travel-Card.jpeg
 ---
 
 ![TransferWise Israeli Shekel Travel Card]({{ site.baseurl }}/assets/TransferWise-Israeli-Shekel-Travel-Card.jpeg) 

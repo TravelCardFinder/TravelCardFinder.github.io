@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "Learn everything about the TransferWise Mexican Peso Travel Card, including its features, benefits, fees, supported currencies, conversion rates, and how to make the best use of it."
 keywords: [TransferWise, Mexican Peso, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 permalink: /posts/:title.html
+image: /assets/TransferWise-Mexican-Peso-Travel-Card.jpeg
 ---
 
 ![TransferWise Mexican Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Mexican-Peso-Travel-Card.jpeg)

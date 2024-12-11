@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "Explore all the details about the TransferWise Ukrainian Hryvnia Travel Card including its features, benefits, fees, and how to use it effectively while traveling."
 keywords: [TransferWise, Wise Card, Ukrainian Hryvnia, Travel Card, Currency Conversion, Fees, International Travel]
 permalink: /posts/:title.html
+image: /assets/TransferWise-Ukrainian-Hryvnia-Travel-Card.jpeg
 ---
 
 ![TransferWise Ukrainian Hryvnia Travel Card]({{ site.baseurl }}/assets/TransferWise-Ukrainian-Hryvnia-Travel-Card.jpeg)

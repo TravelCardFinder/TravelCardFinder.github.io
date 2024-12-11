@@ -5,8 +5,8 @@ date: 2024-12-07
 categories: [TransferWise Travel Cards]
 description: "Learn all about the Transferwise Bangladeshi Taka Travel Card, including its features, benefits, supported currencies, fees, and tips for efficient usage."
 keywords: ["Transferwise", "Bangladeshi Taka Travel Card", "Travel Card", "Currency Conversion", "Wise Card", "International Travel"]
-
 permalink: /posts/:title.html
+image: /assets/Transferwise-Bangladeshi-Taka-Travel-Card.jpeg
 ---
 
 ![Transferwise Bangladeshi Taka Travel Card]({{ site.baseurl }}/assets/Transferwise-Bangladeshi-Taka-Travel-Card.jpeg)

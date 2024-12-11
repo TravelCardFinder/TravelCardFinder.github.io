@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "Learn about the TransferWise UAE Dirham Travel Card, its features, benefits, fees, currencies, and tips for using it effectively for AED transactions."
 keywords: [TransferWise, Wise Card, UAE Dirham, AED Card, Travel Card, Currency Conversion, Multi-Currency Account]
 permalink: /posts/:title.html
+image: /assets/TransferWise-UAE-Dirham-Travel-Card.jpeg
 ---
 
 ![TransferWise UAE Dirham Travel Card]({{ site.baseurl }}/assets/TransferWise-UAE-Dirham-Travel-Card.jpeg)

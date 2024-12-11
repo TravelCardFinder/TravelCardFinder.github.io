@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "Learn about the TransferWise Georgian Lari Travel Card, its features, benefits, supported currencies, fees, and the best ways to use it when traveling in Georgia."
 keywords: [TransferWise, Wise Card, Georgian Lari, Travel Card, Currency Exchange, Low Fees, Travel in Georgia, Benefits, Conversion]
 permalink: /posts/:title.html
+image: /assets/TransferWise-Georgian-Lari-Travel-Card.jpeg
 ---
 
 ![TransferWise Georgian Lari Travel Card]({{ site.baseurl }}/assets/TransferWise-Georgian-Lari-Travel-Card.jpeg)

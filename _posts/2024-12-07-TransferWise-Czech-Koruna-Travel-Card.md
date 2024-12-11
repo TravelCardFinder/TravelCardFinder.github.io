@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "Learn everything about the TransferWise Czech Koruna Travel Card including its features, benefits, fees, supported currencies, conversion rates, and how to use it the best way."
 keywords: [TransferWise, Czech Koruna, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 permalink: /posts/:title.html
+image: /assets/TransferWise-Czech-Koruna-Travel-Card.jpeg
 ---
 
 ![TransferWise Czech Koruna Travel Card]({{ site.baseurl }}/assets/TransferWise-Czech-Koruna-Travel-Card.jpeg)

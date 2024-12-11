@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "Discover the TransferWise Sri Lankan Rupee Travel Card, its features, benefits, and fees. Learn how to save money and manage your travel budget in Sri Lanka effectively."
 keywords: [TransferWise, Wise Card, Sri Lankan Rupee, Travel Card, Currency Exchange, Low Fees, Travel in Sri Lanka, Benefits, Conversion]
 permalink: /posts/:title.html
+image: /assets/TransferWise-Sri-Lankan-Rupee-Travel-Card.jpeg
 ---
 
 ![TransferWise Sri Lankan Rupee Travel Card]({{ site.baseurl }}/assets/TransferWise-Sri-Lankan-Rupee-Travel-Card.jpeg) 

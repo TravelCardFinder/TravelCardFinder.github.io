@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "Learn everything you need to know about the TransferWise Thai Baht Travel Card, including features, benefits, fees, conversion rates, and the best ways to use it."
 keywords: [TransferWise, Thai Baht, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 permalink: /posts/:title.html
+image: /assets/TransferWise-Thai-Baht-Travel-Card.jpeg
 ---
 
 ![TransferWise Thai Baht Travel Card]({{ site.baseurl }}/assets/TransferWise-Thai-Baht-Travel-Card.jpeg)

@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "Learn everything about the TransferWise Swiss Franc Travel Card. Discover its features, benefits, supported currencies, fees, and how to make the most of this card while traveling."
 keywords: [TransferWise, Wise Card, Swiss Franc, Travel Card, Currency Conversion, Multi-Currency Card, Travel Tips, Swiss Franc Card]
 permalink: /posts/:title.html
+image: /assets/TransferWise-Swiss-Franc-Travel-Card.jpeg
 ---
 
 ![TransferWise Swiss Franc Travel Card]({{ site.baseurl }}/assets/TransferWise-Swiss-Franc-Travel-Card.jpeg)

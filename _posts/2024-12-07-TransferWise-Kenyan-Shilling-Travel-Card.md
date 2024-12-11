@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "Learn everything about the TransferWise Kenyan Shilling Travel Card, including its features, benefits, fees, supported currencies, conversion rates, and the best ways to use it."
 keywords: [TransferWise, Kenyan Shilling, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 permalink: /posts/:title.html
+image: /assets/TransferWise-Kenyan-Shilling-Travel-Card.jpeg
 ---
 
 ![TransferWise Kenyan Shilling Travel Card]({{ site.baseurl }}/assets/TransferWise-Kenyan-Shilling-Travel-Card.jpeg)

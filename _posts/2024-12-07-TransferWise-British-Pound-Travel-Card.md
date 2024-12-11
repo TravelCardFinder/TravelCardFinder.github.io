@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "Discover the TransferWise British Pound Travel Card, its features, benefits, fees, and best practices for using it on your UK travels."
 keywords: [TransferWise, Wise Card, British Pound, GBP, Travel Card, Currency Exchange, UK Travel, Low Fees, Multi-Currency Card, Conversion Rates]
 permalink: /posts/:title.html
+image: /assets/TransferWise-British-Pound-Travel-Card.jpeg
 ---
 
 ![TransferWise British Pound Travel Card]({{ site.baseurl }}/assets/TransferWise-British-Pound-Travel-Card.jpeg)

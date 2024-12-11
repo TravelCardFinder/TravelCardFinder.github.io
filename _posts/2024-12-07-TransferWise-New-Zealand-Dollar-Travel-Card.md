@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "Discover everything about the TransferWise New Zealand Dollar Travel Card, including features, benefits, supported currencies, fees, and the best ways to use it for your trip to New Zealand."
 keywords: [TransferWise, Wise Card, New Zealand Dollar, Travel Card, Currency Exchange, Low Fees, Travel in New Zealand, Conversion Rates, Multi-Currency Card]
 permalink: /posts/:title.html
+image: /assets/TransferWise-New-Zealand-Dollar-Travel-Card.jpeg
 ---
 
 ![TransferWise New Zealand Dollar Travel Card]({{ site.baseurl }}/assets/TransferWise-New-Zealand-Dollar-Travel-Card.jpeg)

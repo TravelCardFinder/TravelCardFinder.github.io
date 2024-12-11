@@ -283,11 +283,11 @@ pre code.hljs {
 			}
 		}
 	}
-	img {
-		display: block;
-		margin: auto;
-		width: 90%;
-	}
+	// img {
+	// 	display: block;
+	// 	margin: auto;
+	// 	width: 90%;
+	// }
 	/*
 	*	Posts
 	*/
@@ -370,6 +370,18 @@ pre code.hljs {
 			li {
 				padding: modular-scale(-4);
 				padding-left: 0;
+				max-width: 31%;
+				display: inline-block;
+				@media screen and (max-width: 767px) {
+					max-width: 45%;
+				}
+				@media screen and (max-width: 600px) {
+					max-width: 100%;
+				}
+				p {
+					margin: 0 !important;
+
+				}
 			}
 			.desc {
 				font-size: 0.9em;

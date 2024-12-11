@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "Explore the features, benefits, and tips for using the TransferWise Chilean Peso Travel Card for hassle-free transactions in Chile and beyond."
 keywords: [TransferWise, Wise Card, Chilean Peso, CLP Card, Travel Card, Currency Conversion, Multi-Currency Account]
 permalink: /posts/:title.html
+image: /assets/TransferWise-Chilean-Peso-Travel-Card.jpeg
 ---
 
 ![TransferWise Chilean Peso Travel Card]({{ site.baseurl }}/assets/TransferWise-Chilean-Peso-Travel-Card.jpeg)

@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "Learn everything you need to know about the TransferWise Malaysian Ringgit Travel Card, including features, benefits, fees, conversion rates, and how to use it effectively."
 keywords: [TransferWise, Malaysian Ringgit, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 permalink: /posts/:title.html
+image: /assets/TransferWise-Malaysian-Ringgit-Travel-Card.jpeg
 ---
 
 ![TransferWise Malaysian Ringgit Travel Card]({{ site.baseurl }}/assets/TransferWise-Malaysian-Ringgit-Travel-Card.jpeg)

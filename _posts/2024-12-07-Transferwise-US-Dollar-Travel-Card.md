@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "Everything you need to know about the TransferWise US Dollar Travel Card, including features, benefits, supported currencies, fees, conversion fees, and best ways to use it."
 keywords: [TransferWise, US Dollar, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 permalink: /posts/:title.html
+image: /assets/Transferwise-US-Dollar-Travel-Card.jpeg
 ---
 
 ![TransferWise US Dollar Travel Card]({{ site.baseurl }}/assets/Transferwise-US-Dollar-Travel-Card.jpeg)

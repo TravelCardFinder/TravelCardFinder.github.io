@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "Learn everything about the TransferWise Bulgarian Lev Travel Card. Discover its features, benefits, supported currencies, fees, and how to make the most of this card while traveling."
 keywords: [TransferWise, Wise Card, Bulgarian Lev, Travel Card, Currency Conversion, Multi-Currency Card, Travel Tips, Bulgarian Lev Card]
 permalink: /posts/:title.html
+image: /assets/TransferWise-Bulgarian-Lev-Travel-Card.jpeg
 ---
 
 ![TransferWise Bulgarian Lev Travel Card]({{ site.baseurl }}/assets/TransferWise-Bulgarian-Lev-Travel-Card.jpeg)

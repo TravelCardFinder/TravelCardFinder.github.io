@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "Everything you need to know about the TransferWise Croatian Kuna Travel Card, including features, benefits, supported currencies, fees, conversion fees, and best ways to use it."
 keywords: [TransferWise, Croatian Kuna, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 permalink: /posts/:title.html
+image: /assets/TransferWise-Croatian-Kuna-Travel-Card.jpeg
 ---
 
 ![TransferWise Croatian Kuna Travel Card]({{ site.baseurl }}/assets/TransferWise-Croatian-Kuna-Travel-Card.jpeg)

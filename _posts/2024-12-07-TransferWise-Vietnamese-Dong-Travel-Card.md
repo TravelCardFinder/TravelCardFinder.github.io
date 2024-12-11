@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "Everything you need to know about the TransferWise Vietnamese Dong Travel Card, including its features, benefits, supported currencies, fees, conversion rates, and the best ways to use it."
 keywords: [TransferWise, Vietnamese Dong, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 permalink: /posts/:title.html
+image: /assets/TransferWise-Vietnamese-Dong-Travel-Card.jpeg
 ---
 
 ![TransferWise Vietnamese Dong Travel Card]({{ site.baseurl }}/assets/TransferWise-Vietnamese-Dong-Travel-Card.jpeg)

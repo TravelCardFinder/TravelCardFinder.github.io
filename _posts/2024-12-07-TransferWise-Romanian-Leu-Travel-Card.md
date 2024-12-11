@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "All the details you need to know about the TransferWise Romanian Leu Travel Card, including its features, benefits, supported currencies, fees, conversion fees, and the best ways to use it."
 keywords: [TransferWise, Romanian Leu, Travel Card, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 permalink: /posts/:title.html
+image: /assets/TransferWise-Romanian-Leu-Travel-Card.jpeg
 ---
 
 ![TransferWise Romanian Leu Travel Card]({{ site.baseurl }}/assets/TransferWise-Romanian-Leu-Travel-Card.jpeg) 

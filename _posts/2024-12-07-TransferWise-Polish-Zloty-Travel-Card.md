@@ -6,6 +6,7 @@ categories: [TransferWise Travel Cards]
 description: "Everything you need to know about the TransferWise Polish Zloty Travel Card including features, benefits, fees, supported currencies, and the best way to use it."
 keywords: [TransferWise, Travel Card, Polish Zloty, Currency Conversion, Low Fees, International Travel, Multi-currency, Wise Card]
 permalink: /posts/:title.html
+image: /assets/TransferWise-Polish-Zloty-Travel-Card.jpeg
 ---
 
 ![TransferWise Polish Zloty Travel Card]({{ site.baseurl }}/assets/TransferWise-Polish-Zloty-Travel-Card.jpeg) 
