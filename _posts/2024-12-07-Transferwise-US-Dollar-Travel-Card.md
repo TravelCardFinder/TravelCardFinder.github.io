@@ -9,7 +9,7 @@ permalink: /posts/:title.html
 image: /assets/Transferwise-US-Dollar-Travel-Card.jpeg
 ---
 
-![TransferWise US Dollar Travel Card]({{ site.baseurl }}/assets/Transferwise-US-Dollar-Travel-Card.jpeg)
+![TransferWise US Dollar Travel Card]({{ site.baseurl }}/assets/TransferWise-US-Dollar-Travel-Card.jpeg)
 
 Traveling internationally can be an exciting experience, but managing your money while abroad can sometimes be a challenge. One of the best ways to ensure smooth and hassle-free spending is by using a travel card that offers low fees, great exchange rates, and wide acceptance. The **TransferWise US Dollar Travel Card** is designed to help travelers manage their finances efficiently when visiting countries that use **US Dollar (USD)**, as well as many other currencies. 
 
